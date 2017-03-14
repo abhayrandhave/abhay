@@ -1,0 +1,801 @@
+Pid,Pname,Date,Time,Quantity,Price
+1,Bacitracin,1/15/2017,19:42,10,99.06
+2,Pleo Oku,1/20/2017,20:43,16,79.16
+3,Lisinopril,1/17/2017,17:44,19,91.78
+4,sunmark ibuprofen,01-03-2017,17:02,20,23.02
+5,Isordil,1/19/2017,14:15,6,76.53
+6,MOZI-Q,1/25/2017,17:47,7,27.61
+7,Whole Wheat Grain,1/13/2017,10:30,19,37.35
+8,Mood Swings,1/16/2017,13:20,14,17.59
+9,DermaCen Instant Hand Sanitizer with Aloe,1/22/2017,14:23,4,23.81
+10,Neutrogena Spectrum Plus Face Advanced Oil Free,01-12-2017,13:26,20,23.92
+11,Modafinil,01-07-2017,19:10,14,50.61
+12,Isopropyl alcohol,01-09-2017,16:13,20,78.25
+13,Ranitidine,1/15/2017,14:13,10,87.64
+14,RISPERIDONE,01-05-2017,13:31,3,9.23
+15,BLEPHAMIDE,01-08-2017,13:15,15,72.92
+16,EARTHS CARE ARTHRITIS CREAM,01-05-2017,11:44,1,47.47
+17,Senna- S,01-02-2017,10:38,9,57.96
+18,Best Choice Cold Sore Treatment,1/17/2017,10:01,2,43.42
+19,Smooth Brome,01-02-2017,17:51,14,46.7
+20,Ciprofloxacin,1/28/2017,11:20,15,63.42
+21,Quetiapine Fumarate,1/17/2017,17:51,16,8.9
+22,Ketorolac Tromethamine,1/13/2017,18:20,9,48.32
+23,LidoCream 5,1/27/2017,14:47,18,76.02
+24,Preferred Plus Maximum Strength Urinary Pain Relief,1/18/2017,21:15,9,37.59
+25,naproxen sodium,01-11-2017,11:15,5,27.23
+26,Triazolam,01-07-2017,10:09,16,50.17
+27,Focus,01-09-2017,19:46,12,99.8
+28,Leucovorin Calcium,1/24/2017,12:40,16,22.1
+29,Silk Antibacterial Foaming Hand,1/13/2017,21:57,3,82.95
+30,Freshorize,01-08-2017,21:37,6,38.85
+31,Anti Nausea,01-05-2017,12:48,11,28.96
+32,Lovenox,01-02-2017,15:51,6,69.59
+33,Artalgia,1/29/2017,20:07,4,45.09
+34,Sunmark Iodides Tincture,01-02-2017,20:48,19,58.12
+35,Ranitidine,01-03-2017,19:12,12,76.11
+36,LA MER THE BROAD SPECTRUM SPF 50 UV PROTECTING FLUID,01-05-2017,18:12,12,60.46
+37,equate hemorrhoidal,1/17/2017,17:36,5,43.72
+38,ACD-A,01-11-2017,20:48,18,27.82
+39,Zaliex ALCOHOL-FREE Antiseptic Hand Sanitizer,01-09-2017,18:08,10,95.03
+40,Doxycycline,1/24/2017,13:05,11,81.17
+41,Lidocaine Hydrochloride,01-11-2017,19:28,13,54.52
+42,Promethazine Hydrochloride,01-05-2017,21:40,4,74.91
+43,Erythromycin,01-07-2017,14:41,16,19.8
+44,Lymph-Tone I,1/21/2017,18:01,5,45.39
+45,UNDECYLENIC ACID,01-04-2017,21:39,19,41.02
+46,Ear Care,01-02-2017,12:47,4,78.37
+47,fluorodine OXYGEN white Fluoride Anticavity,1/17/2017,13:23,20,69.45
+48,childrens pain and fever,01-10-2017,21:16,18,92.94
+49,Antidiarrheal Relief,1/14/2017,13:33,6,58.21
+50,Simvastatin,1/16/2017,21:30,1,30.05
+51,Cetirizine Hydrochloride,1/15/2017,16:27,6,86.66
+52,Safeguard,1/22/2017,15:55,20,85.46
+53,Valacyclovir hydrochloride,01-09-2017,20:28,12,89.82
+54,Pimento,01-05-2017,13:05,2,77.34
+55,BISACODYL,1/13/2017,21:58,13,55.92
+56,Warfarin Sodium,1/15/2017,17:51,20,44.13
+57,CYPROHEPTADINE HYDROCHLORIDE,01-03-2017,18:05,10,77.46
+58,Publix Alcohol,1/21/2017,21:36,12,20.78
+59,PMS Tone,01-02-2017,12:02,20,19.11
+60,Black Birch,1/27/2017,17:27,3,6.88
+61,Desipramine Hydrochloride,01-10-2017,11:24,3,58.35
+62,Sterile Water,01-12-2017,14:38,11,97.03
+63,Fosinopril Sodium,1/16/2017,21:26,2,16.87
+64,Ibuprofen,01-02-2017,13:36,4,29.54
+65,FIREFLY Barbie Fluoride Foam Bubblegum Flavor,1/21/2017,19:25,3,73.3
+66,Lidocaine Hydrochloride,1/15/2017,15:23,19,86.25
+67,nicotine,01-11-2017,15:41,3,8.21
+68,TOMATO WRINKLE SUN,1/30/2017,17:07,3,86.85
+69,Hypothalmus Tincture,1/29/2017,12:13,12,44.23
+70,Citranatal Harmony 2.1,1/24/2017,12:18,3,31.26
+71,TYLENOL,1/26/2017,21:32,1,32.26
+72,TETANUS TOXOID ADSORBED,1/13/2017,16:36,15,93.82
+73,HAWAIIAN Tropic,01-09-2017,18:51,16,73.13
+74,Olay Age Defying Anti-Wrinkle,1/18/2017,18:58,13,80.93
+75,Lidocaine,01-02-2017,13:57,12,39.12
+76,MEDI-FIRST Non-Aspirin,01-10-2017,15:13,17,83.66
+77,Anastrozole,1/21/2017,14:57,2,73.76
+78,Raloxifene Hydrochloride,1/23/2017,17:30,17,5.88
+79,SENEXON-S,01-12-2017,21:58,12,92.51
+80,Dental Clear Natural,1/23/2017,14:27,20,28.05
+81,BROMO SELTZER,1/15/2017,15:06,15,18.3
+82,HUMATROPE,1/19/2017,13:07,10,58.38
+83,MSM (MoSaengMo),1/16/2017,14:54,13,88.52
+84,Ultra dry antiperspirant,01-10-2017,15:53,13,64.74
+85,smart sense allergy,01-03-2017,16:41,10,8.68
+86,NORTRIPTYLINE HYDROCHLORIDE,1/13/2017,15:11,4,96.73
+87,"Insects (whole body) Cockroach, German Blatella germanica",1/28/2017,17:21,3,12.54
+88,Heparin Sodium,01-04-2017,16:35,6,70.71
+89,Secura Protective,01-07-2017,20:00,7,70.59
+90,Hydroxyzine Hydrochloride,01-02-2017,12:20,7,70.46
+91,Metoprolol succinate,01-09-2017,20:12,10,88.73
+92,Aveeno Eczema Therapy Bath Treatment,1/18/2017,16:31,9,41.89
+93,Amitriptyline Hydrochloride,01-08-2017,18:32,4,70.68
+94,OXAPROZIN,1/25/2017,10:13,8,77.22
+95,Amitriptyline Hydrochloride,1/14/2017,17:22,11,54.91
+96,TIAZAC,1/14/2017,12:12,15,12.93
+97,Protex,1/21/2017,21:13,18,97.26
+98,BOS TAURUS SKIN,01-10-2017,21:00,3,57.33
+99,UV Capture Sun Pact,01-06-2017,18:18,11,64.43
+100,Ibuprofen,1/30/2017,14:51,14,70.36
+101,Tribenzor,1/24/2017,19:46,2,32.74
+102,TODAYS HEALTH NASAL RELIEF ORIGINAL,01-04-2017,21:47,12,53.39
+103,Dove,1/13/2017,15:54,14,61.81
+104,HayFever Fighter,1/20/2017,13:42,2,65.04
+105,CLE DE PEAU BEAUTE SILKY FOUNDATION I,1/29/2017,14:44,4,67.29
+106,Fluoxetine,1/24/2017,11:24,10,5.2
+107,"carbidopa, levodopa and entacapone",1/29/2017,12:12,2,89.09
+108,MINOCYCLINE HYDROCHLORIDE,01-06-2017,15:51,19,35.1
+109,Peptic Relief,1/20/2017,15:36,10,27.99
+110,Bladder Incontinence,01-09-2017,20:25,2,88.98
+111,Dandruff Daily Care,01-06-2017,21:14,7,49.51
+112,No7 Lifting and Firming Foundation Sunscreen SPF 15 Porcelain,01-05-2017,17:40,18,80.13
+113,Prostin,01-03-2017,13:15,20,93.01
+114,Latuda,01-03-2017,21:12,11,60.04
+115,Nasohist,1/15/2017,11:50,17,17.41
+116,Iris germanica comp.,1/27/2017,16:34,14,13.71
+117,Up and UP Sensitive Toothpaste Enamel Strengthening formula,1/19/2017,12:54,8,8.16
+118,Oil Free Acne Wash,01-06-2017,13:23,20,54.84
+119,Lidocaine Hydrochloride,1/23/2017,12:50,11,9.28
+120,Virx,01-09-2017,16:24,4,69.52
+121,Anti-Bacterial Gentle Foaming Hand,1/25/2017,10:52,2,47.44
+122,Health Mart Aspirin,1/19/2017,16:19,11,64.21
+123,Cerezyme,01-10-2017,21:36,20,54.6
+124,Estradiol / Norethindrone Acetate,1/17/2017,13:09,4,16.91
+125,Ciprofloxacin,1/13/2017,10:14,17,93.5
+126,Tolnaftate,1/21/2017,11:38,19,31.21
+127,Oxandrolone,1/24/2017,12:22,7,38.48
+128,Shagbark Hickory,01-03-2017,21:58,11,56.41
+129,Select Brand Hemorrhoid,1/18/2017,13:42,10,8.19
+130,Dicyclomine Hydrochloride,01-10-2017,12:23,19,50.52
+131,Hydroxyzine Hydrochloride,1/19/2017,11:50,19,78.55
+132,Sertraline Hydrochloride,1/25/2017,21:40,4,55.67
+133,ARAMIS LAB SERIES POWER PROTECTOR,1/20/2017,19:22,1,72.01
+134,Tamsulosin Hydrochloride,1/28/2017,13:10,9,32.37
+135,Vasotec,1/29/2017,18:53,11,21.09
+136,Lorazepam,01-07-2017,19:32,14,23.84
+137,KETOROLAC TROMETHAMINE,1/16/2017,21:49,6,79.85
+138,Kogenate FS,1/24/2017,19:11,14,30.65
+139,Pleo Usti,01-12-2017,14:30,3,11.35
+140,Stavudine,1/23/2017,17:20,3,44.32
+141,No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Beige,01-11-2017,15:30,7,76.93
+142,Licorice,01-05-2017,12:34,10,23.04
+143,"Smut, Corn",01-04-2017,12:54,12,11.93
+144,CareOne All Day Allergy,01-09-2017,14:38,9,56.58
+145,Hydrogen Peroxide,01-09-2017,10:35,15,7.51
+146,fexofenadine,01-05-2017,21:13,11,59.89
+147,Losartan Potassium,1/29/2017,16:16,10,12.8
+148,LISINOPRIL AND HYDROCHLOROTHIAZIDE,01-08-2017,20:38,1,81.93
+149,Amoxicillin and Clavulanate Potassium,01-07-2017,10:51,17,77.48
+150,Neuac Kit,1/16/2017,12:22,20,56.72
+151,Vanilla Hand Sanitizer with vitamin E and aloe,1/13/2017,20:09,10,68.82
+152,Metoprolol Tartrate,1/21/2017,21:22,12,24.71
+153,Hot Stuff Cream,1/26/2017,12:49,19,52.71
+154,Minoxidil,1/20/2017,18:07,17,23.39
+155,ZIMS ADVANCED CRACK CREME WITH HYDROCORTISONE,1/15/2017,12:42,11,74.15
+156,Woodwards Mycocide Clinical NS,01-07-2017,21:57,3,59.68
+157,pravastatin sodium,01-02-2017,14:06,4,68.29
+158,RECOMBIVAX HB,1/17/2017,10:04,8,81.11
+159,Doxycycline Hyclate,1/16/2017,18:48,20,57.84
+160,CYCLOBENZAPRINE HYDROCHLORIDE,1/24/2017,13:42,3,93.03
+161,risperidone,01-04-2017,16:43,4,85.95
+162,Daytime Cold and Flu Relief,1/28/2017,13:02,10,27.65
+163,Botrytis cinerea,01-12-2017,12:38,4,73.88
+164,AMIODARONE HYDROCHLORIDE,1/28/2017,16:33,10,81.55
+165,OXYGEN,1/30/2017,15:56,14,88.68
+166,Proformance Antibacterial,1/21/2017,19:40,15,22.83
+167,Cormax,01-06-2017,18:32,7,78.39
+168,Immune Support,01-12-2017,21:11,3,51.77
+169,IT RADIANT CC CUSHION,01-03-2017,11:51,16,69.3
+170,Nalbuphine Hydrochloride,01-04-2017,19:59,20,41.76
+171,Choice Personal Care Cocoa Butter Scented Petroleum,1/21/2017,21:08,15,64.7
+172,Metoprolol succinate,1/23/2017,21:32,3,78.85
+173,FREDS ORIGINAL EYE DROPS,1/24/2017,18:22,18,5.08
+174,Escitalopram,01-05-2017,10:08,10,11.4
+175,Lisinopril and Hydrochlorothiazide,01-10-2017,19:34,6,46.69
+176,Womens Mitchum Advanced Invisible Antiperspirant Deodorant,1/22/2017,15:20,16,10.35
+177,Cyzone,01-08-2017,14:44,4,50.4
+178,Maracuja Miracle Foundation 12-Hour Foundation Broad Spectrum SPF 15 Sunscreen,1/25/2017,17:38,14,83.67
+179,PEPPERMINT,1/23/2017,19:25,6,43.3
+180,American Infection Control Antiseptic Hand Wipes,1/18/2017,13:09,8,41.82
+181,ESIKA HD COLOR HIGH DEFINITION COLOR SPF 20,01-09-2017,18:30,18,10.91
+182,Sun Shades Lip Balm,1/25/2017,21:51,6,56.9
+183,Dr. Dream Advanced Eye Treatment,01-11-2017,19:07,14,37.86
+184,White Ash,01-09-2017,16:45,20,39.14
+185,Bacitracin Zinc,01-11-2017,12:07,2,44.86
+186,HYDRA LIFE PRO-YOUTH SKIN TINT 2,01-09-2017,16:56,9,34.68
+187,kids cold,1/20/2017,14:02,7,89.58
+188,kirkland signature quit 4,1/30/2017,18:50,14,48.03
+189,TUMS,1/15/2017,14:27,20,83.75
+190,Warfarin Sodium,1/17/2017,13:51,11,43.63
+191,Glyburide and Metformin,1/29/2017,16:20,20,49.71
+192,BIOTOX BAC,1/28/2017,11:18,9,29.62
+193,METHYLPREDNISOLONE,1/29/2017,13:04,3,94.64
+194,Diltiazem Hydrochloride,01-05-2017,21:42,9,47.06
+195,Soma,1/15/2017,19:52,17,31.57
+196,Polymyxin B,1/19/2017,18:28,1,26.62
+197,Lisinopril,1/26/2017,21:41,15,58.61
+198,Diclofenac Potassium,01-09-2017,16:49,1,84.14
+199,Rx Act Nasal Decongestant,01-07-2017,20:16,3,15.11
+200,Doxycycline,1/24/2017,21:03,6,93.12
+201,Tartar control plus,01-11-2017,20:46,4,62.57
+202,Desvenlafaxine,1/24/2017,17:33,13,68.03
+203,berkley and jensen nicotine,1/20/2017,19:57,19,58.94
+204,Diphenhydramine Hydrochloride,1/30/2017,11:26,4,52.82
+205,IBUPROFEN,1/24/2017,12:04,5,50.09
+206,triamcinolone acetonide,01-11-2017,21:25,20,68.63
+207,Oxaliplatin,01-07-2017,14:54,3,89.05
+208,OXYGEN COMPRESSED,01-11-2017,14:35,18,95.71
+209,Antiseptic,1/13/2017,12:33,8,5.3
+210,Doxepin Hydrochloride,1/19/2017,18:15,18,35.87
+211,Ofloxacin,01-06-2017,11:40,2,42.78
+212,Spironolactone,01-05-2017,19:52,11,41.18
+213,INTRON A,1/29/2017,17:27,14,87.76
+214,Risperidone,1/15/2017,15:49,1,76.93
+215,Gemcitabine,01-09-2017,19:59,7,50.37
+216,Clodan Kit,1/18/2017,21:55,4,33.17
+217,Alendronate Sodium,1/13/2017,16:40,17,53.44
+218,Instant Hand Sanitizer,1/18/2017,21:00,12,50.45
+219,Morphine Sulfate,1/28/2017,12:50,19,50.42
+220,Hydrochlorothiazide,1/26/2017,13:47,5,94.45
+221,Headache Cough,1/26/2017,11:00,8,38.49
+222,PREDNISONE,1/22/2017,17:09,9,33.91
+223,Harris Teeter,01-08-2017,18:07,16,80.94
+224,Clopidogrel,1/20/2017,16:22,3,77.24
+225,NITROFURANTOIN MACROCRYSTALS,01-07-2017,12:14,11,37.7
+226,Montelukast Sodium,1/16/2017,11:07,13,89.08
+227,Hand Sanitizer,01-06-2017,13:11,13,32.66
+228,SOORYEHAN HYO FERMENTED SUN BLOCK,1/14/2017,15:44,20,31.9
+229,ACT Anticavity Fluoride Mint,01-06-2017,16:39,11,14.25
+230,Promethazine Hydrochloride,01-05-2017,15:31,18,54.48
+231,Otoflam,1/21/2017,10:39,7,32.9
+232,Cefdinir,01-12-2017,13:34,9,24.79
+233,Blemish Potion,1/29/2017,10:11,11,73.84
+234,Hypoglycemia,01-04-2017,14:32,12,72.74
+235,GRAPEFRUIT,1/17/2017,16:30,4,76.96
+236,ESIKA,1/16/2017,11:22,19,96.56
+237,Nitrous Oxide,1/21/2017,19:28,14,21
+238,Edex,1/30/2017,18:59,8,50.88
+239,INSTANT HAND SANITIZER,1/22/2017,20:05,8,44.98
+240,Diltiazem Hydrochloride,1/17/2017,16:39,4,71.71
+241,EQUALINE BLUE ICE PAIN RELIEVING,1/21/2017,20:25,17,14.79
+242,Cardene,01-08-2017,19:40,15,70.9
+243,OXYGEN,1/20/2017,10:41,18,7.33
+244,Femara,01-12-2017,21:27,15,39.05
+245,Loperamide Hydrochloride,1/24/2017,11:05,10,87.96
+246,MRCL,1/21/2017,10:34,16,32.97
+247,Platinum for Men,01-05-2017,15:50,14,14.23
+248,Leader Sinus and Allergy PE,1/17/2017,16:59,9,86.34
+249,lisinopril,1/13/2017,16:13,2,96.74
+250,Natural Pain Relieving Lavender Breeze,1/16/2017,20:15,5,56.5
+251,Green Pea,1/18/2017,10:10,15,93.09
+252,Everyday Sunscreen Broad Spectrum SPF 30,1/14/2017,10:42,4,24.79
+253,Gabapentin,1/30/2017,11:30,5,65.52
+254,Pedipirox-4 Nail Kit,1/28/2017,16:00,14,24.17
+255,Ceftriaxone,1/27/2017,21:46,5,77.93
+256,Sclerosol,01-10-2017,12:48,9,65.1
+257,Cefepime,1/29/2017,10:27,14,89.9
+258,Irbesartan,1/23/2017,17:11,11,82.56
+259,Backache Relief,1/18/2017,11:08,13,19.8
+260,Thyreoidea Compositum,01-07-2017,17:59,13,91.91
+261,Clean Force,1/16/2017,10:28,10,66.94
+262,Piperacillin and Tazobactam,1/13/2017,21:51,18,68.47
+263,The Natural Dentist,1/14/2017,21:30,7,75.02
+264,Isosorbide Mononitrate,01-06-2017,21:19,4,41.15
+265,Vaginitis,1/15/2017,15:34,14,93.55
+266,Quinapril,01-02-2017,17:19,4,73.19
+267,family wellness hemorrhoidal,1/15/2017,19:33,12,43.22
+268,Ibuprofen,1/20/2017,15:48,18,16.51
+269,Atenolol,1/28/2017,20:55,2,57.58
+270,Loratadine,01-11-2017,13:22,3,90.94
+271,Stalevo,1/24/2017,18:07,16,51.39
+272,Ibuprofen,01-04-2017,11:37,1,44.48
+273,Acne,1/22/2017,17:28,8,53.83
+274,Metoprolol Tartrate,01-07-2017,16:08,10,12.93
+275,ACTONEL,1/20/2017,16:47,14,25.67
+276,DRY SORE THROAT,01-09-2017,13:30,16,32.57
+277,Folic Acid,1/25/2017,11:45,1,71.54
+278,Disney PIXAR MONSTERS UNIVERSITY Antibacterial Hand Wipes,01-06-2017,13:05,19,46.74
+279,Cladosporium fulvum,01-02-2017,10:29,1,32.42
+280,Mango,1/23/2017,14:07,7,62.64
+281,ACER NEGUNDO POLLEN,01-06-2017,20:14,3,11.51
+282,MEDICHOICE ANTICAVITY FLUORIDE,1/15/2017,11:47,17,86.01
+283,Bismatrol,1/14/2017,18:44,13,99.56
+284,Midodrine HCl,01-05-2017,15:40,15,57.32
+285,Laxative pills,1/26/2017,13:44,19,87.54
+286,Famotidine - Acid Controller,1/25/2017,21:25,12,74.86
+287,Topiramate,01-06-2017,15:23,7,67.58
+288,Valacyclovir Hydrochloride,1/26/2017,16:42,15,72.54
+289,Sumatriptan Succinate,01-07-2017,11:56,10,42.4
+290,Upper Respiratory Staph Strep Combination,1/17/2017,15:34,5,77.55
+291,Torsemide,1/29/2017,16:46,15,67.8
+292,Aquafresh,01-11-2017,21:12,17,34.03
+293,Hydrocodone Bitartrate and Acetaminophen,1/21/2017,18:30,5,58.18
+294,FERROUS SULFATE,1/21/2017,21:09,16,42.88
+295,galantamine hydrobromide,01-08-2017,21:57,10,58.05
+296,ZONISAMIDE,1/29/2017,21:56,12,94.16
+297,Penicillin V Potassium,1/14/2017,12:33,15,88.12
+298,Alinia,01-11-2017,18:10,8,98.5
+299,Natural Fluoride Fresh Mint,01-03-2017,18:47,19,65.52
+300,AMERFRESH ANTIPERSPIRANT DEODORANT,01-02-2017,19:59,18,60.81
+301,Pravastatin Sodium,01-02-2017,11:59,18,94.1
+302,GOOD NEIGHBOR PHARMACY Isopropyl Alcohol Wipes,01-12-2017,18:55,20,47.31
+303,Cystadane,1/16/2017,12:44,15,28.78
+304,BC Cherry,01-04-2017,21:18,3,33.52
+305,Terazosin hydrochloride,01-09-2017,20:46,19,21.06
+306,Promethazine Hydrochloride,1/29/2017,20:11,15,76.94
+307,Allergy and congestion relief,1/20/2017,15:48,9,40.62
+308,Temazepam,1/21/2017,15:46,16,92.06
+309,Childrens Ibuprofen,1/17/2017,14:31,18,93.66
+310,Loperamide Hydrochloride,1/15/2017,18:04,12,88.61
+311,NHS Flu Fever Sudden Onset,01-10-2017,17:00,13,18.09
+312,DentiCare Pro-Foam,1/24/2017,11:18,15,80.27
+313,Sertraline Hydrochloride,1/19/2017,17:52,14,15.29
+314,Diltiazem Hydrochloride,1/27/2017,14:07,9,6.7
+315,Levsin,1/16/2017,21:05,1,96.62
+316,Tilia Fe,01-08-2017,11:04,8,49.91
+317,Sucralfate,1/18/2017,21:06,13,12.52
+318,Pantoprazole Sodium,01-07-2017,10:26,16,83.33
+319,Good Care Surgical Brush With Nail Cleaner,1/27/2017,20:53,1,54.4
+320,NMC Staypot double programing cream,01-12-2017,21:03,8,88.54
+321,Ondansetron,01-03-2017,13:16,8,99.47
+322,equaline ibuprofen,1/27/2017,11:58,18,85.19
+323,Sheep Sorrel,01-02-2017,18:49,17,19.5
+324,Neomycin and Polymyxin B Sulfates and Dexamethasone,01-12-2017,14:00,10,62.4
+325,Visine Tears,1/21/2017,20:02,13,53.98
+326,amlodipine besylate and atorvastatin calcium,1/25/2017,12:59,9,80.39
+327,Wheat Smut,01-09-2017,17:38,9,65.32
+328,Sulfamethoxazole and Trimethoprim,01-09-2017,16:42,14,46.55
+329,CleanWell Natural Orange Vanilla Hand Sanitizer,1/16/2017,19:47,7,81.18
+330,Calcium,1/29/2017,11:01,9,95.37
+331,Ketorolac Tromethamine,01-03-2017,18:51,15,76.92
+332,HAWAIIAN Tropic,01-07-2017,19:17,16,53.02
+333,Coppertone Sport,1/30/2017,21:42,6,63.87
+334,Acyclovir,1/19/2017,11:02,1,53.14
+335,simply right cetirizine hydrochloride,1/19/2017,16:05,12,49.38
+336,METRONIDAZOLE,01-02-2017,19:43,16,72.16
+337,Hydrocortisone,1/24/2017,21:41,13,5.37
+338,MUSCLE SPASMS,1/14/2017,17:58,18,75.68
+339,ROBITUSSIN NIGHT TIME COUGH AND COLD,1/30/2017,12:14,19,42.22
+340,LEADER Chest Congestion Relief,01-08-2017,21:22,5,44.21
+341,Hemorrhoidal,1/13/2017,20:53,20,55.66
+342,Good Neighbor Pharmacy Nicotine,01-07-2017,15:56,2,31.68
+343,CapCof,1/20/2017,13:05,19,79.12
+344,OATS FOOD,1/19/2017,13:45,9,90.66
+345,Shopko Antibacterial Hand Sanitizer,1/25/2017,10:18,5,92.79
+346,Lamivudine,1/22/2017,10:58,6,38.29
+347,good sense itch relief,1/19/2017,15:57,20,26.56
+348,Topcare Sinus Relief Day Time Night Time,01-03-2017,10:45,19,18.18
+349,Pain Relief,01-12-2017,20:30,4,71.92
+350,Dicloxacillin Sodium,01-09-2017,12:49,14,43.73
+351,Warfarin Sodium,01-03-2017,11:19,18,64.49
+352,Drummond American Trade Wind Antimicrobial,1/13/2017,11:58,3,13.93
+353,flormar Soft Touch Foundation Sunscreen Broad Spectrum SPF 20 ST07 Caramel,1/13/2017,19:40,12,27.86
+354,Gentamicin Sulfate,1/24/2017,14:02,9,31.26
+355,Progesterone Injection,1/16/2017,10:05,19,15.97
+356,Astragalus Formica,1/22/2017,10:35,18,53.1
+357,Risperidone,1/21/2017,11:47,20,48.28
+358,SULAR,1/13/2017,16:55,10,99.16
+359,Levothyroxine Sodium,01-02-2017,14:25,3,19.44
+360,Dorzolamide HCl,01-10-2017,20:43,1,50.53
+361,T-Chem E2 Rated,1/21/2017,17:06,20,37.26
+362,Equate,1/13/2017,15:12,7,21.93
+363,DROXIA,01-05-2017,10:02,18,11.08
+364,Ropinirole Hydrochloride,1/15/2017,13:34,5,88.21
+365,EMEND,1/16/2017,20:11,18,42.6
+366,Ropinirole,1/13/2017,10:51,8,19.35
+367,Losartan Potassium and Hydrochlorothiazide,01-10-2017,13:50,19,65.17
+368,MAR-COF CG,01-12-2017,13:41,18,22.05
+369,Tolazamide,01-09-2017,16:01,16,47.75
+370,allergy,1/26/2017,10:44,9,39.58
+371,PreferaOB One,01-12-2017,15:56,12,52.27
+372,Banana Boat Ultra Defense Sheer Protect SPF 30,01-07-2017,13:15,13,78.65
+373,IBU,01-06-2017,14:58,17,74.4
+374,Cefdinir,01-07-2017,14:14,2,73.25
+375,MENOPAUSE,1/25/2017,17:21,20,34.7
+376,Mango Blossom,1/22/2017,10:13,18,71.27
+377,Ipratropium Bromide,1/23/2017,16:19,16,93.69
+378,Sumatriptan Succinate,01-04-2017,10:25,15,85.34
+379,Oil Free Matte,01-06-2017,11:57,1,27.05
+380,Venlafaxine,1/29/2017,17:06,12,95.5
+381,Hydrogen Peroxide,01-02-2017,14:28,4,69.91
+382,Amlodipine Besylate and Benazepril Hydrochloride,01-03-2017,13:00,20,88.32
+383,Doxycycline Hyclate,1/29/2017,17:23,10,60.14
+384,Triamterene and Hydrochlorothiazide,1/22/2017,19:32,11,57.43
+385,Ibuprofen,1/26/2017,12:02,8,5.36
+386,AGAVE AMERICANA,1/25/2017,11:48,11,68.24
+387,Mycophenolate Mofetil,1/28/2017,12:19,12,26.55
+388,Enalapril Maleate,1/24/2017,21:51,16,44.71
+389,Venlafaxine,01-10-2017,10:17,14,89.85
+390,Acetaminophen PM Rapid Release,1/18/2017,10:43,18,34.21
+391,Head and Shoulders Classic Clean Dandruff,1/18/2017,17:33,4,78.64
+392,ProState Relief,1/28/2017,20:02,18,26.16
+393,ELCURE C Serum,1/25/2017,10:47,20,38.72
+394,vancomycin hydrochloride,1/24/2017,20:48,2,46.35
+395,BURBERRY FRESH GLOW B.B. LUMINOUS SKIN PERFECTING BEAUTY BALM SUNSCREEN BROAD SPECTRUM SPF 20 DARK 03,1/28/2017,13:15,17,77.8
+396,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,01-02-2017,17:13,13,24.28
+397,CYZONE,01-11-2017,19:52,3,20.4
+398,Oxygen,1/14/2017,19:06,4,11.77
+399,smart sense allergy,1/21/2017,21:37,3,27.43
+400,infants pain and fever,1/18/2017,11:07,15,88.94
+401,Dial Gold Antibacterial Soap,1/20/2017,21:09,13,46.19
+402,Ketorolac Tromethamine,1/27/2017,17:34,7,55.73
+403,Ziprasidone Hydrochloride,1/20/2017,15:13,2,27.05
+404,CENTER-AL - BETULA LENTA POLLEN,1/29/2017,17:04,17,49.77
+405,daytime severe,01-11-2017,12:47,4,91.02
+406,CLEAR CELL Medicated Acne Scrub,1/30/2017,21:38,3,79.29
+407,Summer Bisque Foundation SPF 20,1/14/2017,14:20,14,63.64
+408,Spironolactone and Hydrochlorothiazide,01-04-2017,16:23,1,77.36
+409,Enoxaparin Sodium,01-05-2017,11:25,10,36.82
+410,povidine iodine,1/23/2017,15:44,14,64.53
+411,Theophylline,1/26/2017,13:27,17,58.46
+412,Tacrolimus,1/13/2017,11:59,5,41.62
+413,Fondaparinux Sodium,1/22/2017,19:20,6,14.38
+414,Salicylic Acid,01-07-2017,16:13,17,87.5
+415,Western Family,1/19/2017,17:32,2,27.69
+416,Pineapple Orange Antibacterial Foaming Hand Wash,1/26/2017,11:44,19,64.18
+417,ziprasidone hydrochloride,1/14/2017,12:05,8,14.61
+418,Topiramate,01-11-2017,21:42,20,27.06
+419,Diazepam,1/28/2017,19:15,5,81.18
+420,Ulta Fresh Spice Anti-Bacterial Deep Cleansing,1/27/2017,17:27,8,92.15
+421,CEFACLOR,1/18/2017,10:43,8,79.95
+422,Baclofen,1/26/2017,19:52,4,19.96
+423,BUPROPION HYDROCHLORIDE,01-11-2017,20:00,1,45.43
+424,bisoprolol fumarate,1/13/2017,12:14,16,66.11
+425,Treatment Set TS347484,01-04-2017,21:25,19,85.41
+426,LBEL COULEUR LUXE AMPLIFIER XP,01-09-2017,15:34,4,37.93
+427,Lamotrigine,1/29/2017,11:32,5,8.31
+428,ORGAN-I NR,1/13/2017,15:22,8,77.43
+429,Morphine Sulfate,1/13/2017,11:50,4,32.84
+430,Heparin Sodium,01-03-2017,10:19,14,40.83
+431,Sinus PE And Allergy Maximum Strength,01-02-2017,19:34,9,98.16
+432,Lisinopril,01-11-2017,10:24,8,97.96
+433,ropinirole hydrochloride,01-05-2017,12:21,14,75.21
+434,Clearasil,1/30/2017,18:18,17,62.43
+435,Male Complex,01-08-2017,17:48,16,39.9
+436,Restless Leg,01-12-2017,10:55,18,75.93
+437,Aspergillus,1/15/2017,15:06,18,26.33
+438,Midazolam,1/14/2017,11:04,7,53.81
+439,Furosemide,01-02-2017,19:27,10,5.1
+440,Heparin Sodium,01-07-2017,20:27,17,92.08
+441,Extra Strength Pain Reliever,1/15/2017,21:19,6,66.11
+442,Xylocaine,1/18/2017,20:34,17,14.5
+443,Hyoscyamine Sulfate,1/23/2017,19:10,14,67.67
+444,Omeprazole Magnesium,01-11-2017,11:01,16,56.56
+445,Dill,1/17/2017,12:38,16,38.26
+446,simvastatin,1/17/2017,21:00,3,94.68
+447,Paclitaxel,1/30/2017,18:02,10,33.13
+448,Halobetasol Propionate,1/21/2017,11:49,9,75.72
+449,Rohto,1/28/2017,11:51,2,86.18
+450,GARDASIL,01-09-2017,17:15,2,66.54
+451,SkinTx Sunscreen,1/17/2017,19:02,10,67.28
+452,Lymph Detox,01-09-2017,10:22,5,98.18
+453,Haloperidol,1/30/2017,15:23,14,54.37
+454,Piroxicam,01-08-2017,11:13,19,89.4
+455,Treatment Set TS345694,1/26/2017,12:44,15,55.49
+456,Warfarin Sodium,1/27/2017,13:04,9,86.55
+457,Motion Sickness,01-07-2017,20:34,18,98.71
+458,Triamterene and Hydrochlorothiazide,1/24/2017,20:19,14,5.21
+459,REFRESH PLUS,1/23/2017,12:20,16,15.78
+460,Metoprolol Succinate,1/13/2017,16:45,15,26.73
+461,Nucynta,01-10-2017,21:22,9,94.13
+462,Prosacea,01-10-2017,12:44,6,5.55
+463,Nisoldipine,01-05-2017,15:10,3,46.21
+464,Smart Sense ibuprofen,1/29/2017,18:34,3,30.05
+465,NWC21 NATURAL SUN PROTECTOR,1/18/2017,17:09,16,62.39
+466,Argentum Nitricum Kit Refill,1/30/2017,11:31,17,95.89
+467,POTASSIUM CHLORIDE,01-12-2017,12:54,5,65.25
+468,Triple Flu Defense,1/13/2017,12:03,20,95.65
+469,childrens mucus relief,01-08-2017,15:38,9,23.73
+470,Baby Eczema Moisturizing,1/14/2017,20:49,2,9.65
+471,Cefprozil,1/24/2017,13:03,17,58.62
+472,Nor QD,01-11-2017,19:52,14,94.36
+473,HYVEE,1/30/2017,14:01,18,12.98
+474,Hydroxyzine Hydrochloride,01-08-2017,17:36,12,11.71
+475,Viral Plus,1/13/2017,16:09,6,76.64
+476,GOONG SECRET MILD SUN,1/30/2017,21:44,14,61.7
+477,Antiseptic Rinse,01-12-2017,14:35,7,30.61
+478,Triple Antibiotic,1/24/2017,18:50,5,49.18
+479,Sunmark Calamine,1/23/2017,15:16,4,42.51
+480,Softlips Pure Lip Gloss,1/15/2017,13:35,18,90
+481,Barium Conchae Mercurius Special Order,1/27/2017,17:42,16,35.02
+482,Glyburide,01-09-2017,12:15,10,84.86
+483,Betapace,01-08-2017,10:29,6,57.48
+484,No7 Lifting and Firming Foundation Sunscreen SPF 15 Porcelain,01-02-2017,17:24,5,41.14
+485,Naturals by Safety 1st,01-06-2017,13:34,2,92.11
+486,WHITE MALLOW DIAPER RASH CREAM,1/14/2017,15:51,3,14.17
+487,Corn Grass,01-06-2017,16:14,13,35.64
+488,Levothyroxine Sodium,1/19/2017,21:47,10,13.79
+489,Ciprofloxacin,1/17/2017,15:23,13,31.48
+490,Waterless Hand Sanitizer,1/30/2017,17:52,5,90.54
+491,Anticavity,1/30/2017,16:07,4,50.46
+492,Meijer Sport SPF 50,1/22/2017,10:28,11,31.91
+493,Oxygen,1/18/2017,13:41,20,59.05
+494,Terbinafine Hydrochloride,1/15/2017,14:33,10,19.83
+495,Simvastatin,1/17/2017,21:35,5,70.49
+496,Simvastatin,1/16/2017,15:59,15,38.98
+497,Nabumetone,01-03-2017,18:22,3,55.5
+498,Epinephrine,1/22/2017,21:57,4,88.23
+499,Cyclobenzaprine Hydrochloride,1/26/2017,20:25,3,79.73
+500,Antibacterial Foaming Hand,1/13/2017,16:26,11,69.52
+501,COUMADIN,1/29/2017,11:27,19,34
+502,Diarrhea,01-05-2017,15:25,16,64.23
+503,MENEST,1/21/2017,21:22,12,80.01
+504,Amlodipine Besylate,01-06-2017,21:25,4,36.32
+505,Rouge Dior 870 Ruby Serum,01-07-2017,14:53,2,64
+506,Simvastatin,1/30/2017,20:55,13,97.03
+507,Verapamil Hydrochloride,1/23/2017,11:14,17,6.57
+508,Valacyclovir hydrochloride,01-12-2017,15:03,14,11.1
+509,TOMATO SUN,1/21/2017,13:35,7,86.77
+510,ANAFRANIL,1/29/2017,20:59,15,38.02
+511,acarbose,1/22/2017,21:50,18,38.82
+512,Ohtas Isan Antacid,01-03-2017,13:07,20,92.98
+513,Valproate Sodium,1/21/2017,18:46,13,70.04
+514,Eye Irritation,1/23/2017,18:17,12,45.59
+515,RISPERIDONE,1/26/2017,11:05,16,8.51
+516,Equaline tussin cough and chest congestion,01-07-2017,15:34,15,92.49
+517,Head and Shoulders,1/23/2017,14:02,12,48.08
+518,topiramate,1/18/2017,18:18,17,16.82
+519,Causticum Kit Refill,1/30/2017,18:52,15,48.29
+520,Losartan Potassium,1/16/2017,21:11,16,91.11
+521,Nu Skin Nu Colour,01-09-2017,18:49,11,69.21
+522,Risperidone,01-03-2017,15:38,5,40.02
+523,Duloxetine,01-12-2017,19:03,6,85.74
+524,Ranitidine,1/21/2017,11:02,9,59.54
+525,Tinactin,1/16/2017,20:59,18,15.1
+526,Halls,01-08-2017,17:41,11,83.88
+527,Petroleum Skin Protectant,01-02-2017,16:26,19,10.26
+528,Ibuprofen,1/13/2017,16:40,11,93.3
+529,Acyclovir,01-03-2017,12:13,6,72.6
+530,Hydrochlorothiazide,1/18/2017,16:20,7,16.77
+531,Nifediac CC,01-09-2017,21:03,15,11.53
+532,Heparin Sodium,1/27/2017,13:04,17,99.24
+533,Oxaliplatin,1/29/2017,18:30,5,58.84
+534,Stool Softener,01-11-2017,12:05,16,56.12
+535,OHUI Sun Science intensive sunblock cake EX,1/20/2017,15:31,6,21.11
+536,American Beech,01-09-2017,15:16,19,36.62
+537,Corlopam,1/29/2017,10:24,12,35.16
+538,MERREM,1/15/2017,14:05,2,76.57
+539,Sunmark sleep aid,1/20/2017,14:48,13,44.67
+540,NITROGEN,01-04-2017,11:16,1,63.47
+541,migraine relief,1/14/2017,16:11,4,31.92
+542,Lorazepam,1/23/2017,15:05,6,71.32
+543,Gabapentin,01-11-2017,16:02,1,12.92
+544,Quetiapine fumarate,1/26/2017,13:10,3,15.71
+545,sunmark day time cold and cough,1/28/2017,11:46,5,52.15
+546,Berberis Urtica,01-12-2017,13:52,4,17.62
+547,Famotidine,1/19/2017,14:43,3,54.06
+548,Bupropion hydrochloride,1/14/2017,20:21,7,81.41
+549,Female Balance,01-10-2017,16:44,7,94.6
+550,GBG AloeGel Instant Hand Sanitizer,1/25/2017,18:38,2,86.14
+551,Head and Shoulders 2in1,1/20/2017,15:41,20,25.09
+552,Naproxen,1/15/2017,10:20,17,28.46
+553,Toffee Always color stay-on Makeup Broad Spectrum SPF 15,1/25/2017,12:57,9,68.96
+554,Guaifenesin and Codeine Phosphate,01-06-2017,18:11,10,29.11
+555,ADVAIR HFA,1/23/2017,10:07,20,42.06
+556,Childrens Ibuprofen,01-05-2017,15:23,20,83.92
+557,Metformin Hydrochloride,1/17/2017,16:50,5,17.13
+558,Depo-Provera,1/18/2017,11:11,19,96.49
+559,Prastera,01-07-2017,13:34,13,75.18
+560,Risperidone,1/18/2017,13:56,1,64.91
+561,Hydrocodone Bitartrate and Acetaminophen,01-08-2017,19:57,3,10.09
+562,lice killing,1/29/2017,10:32,1,49.87
+563,Acid Reducer,01-08-2017,15:11,3,11.82
+564,SHISEIDO SHEER AND PERFECT COMPACT (REFILL),1/25/2017,18:45,18,26.81
+565,Clorazepate Dipotassium,01-08-2017,19:35,7,16.34
+566,Buminate,01-08-2017,12:23,10,91.38
+567,Silk,1/14/2017,15:41,2,24.36
+568,PROSOPIS JULIFLORA POLLEN,1/20/2017,20:09,3,87.96
+569,AUBRA,1/16/2017,15:29,7,87.18
+570,Prednisone,1/29/2017,11:04,3,90.84
+571,Valproic Acid,01-11-2017,10:09,20,67.93
+572,Lovenox,1/26/2017,17:50,5,56.03
+573,Oxygen,01-05-2017,11:15,2,51.17
+574,Diclofenac Sodium,1/28/2017,14:34,18,34.87
+575,Poverty Weed,1/17/2017,17:21,19,61.31
+576,Promethazine Hydrochloride,1/28/2017,10:13,2,83.43
+577,BiferaRx,1/22/2017,14:47,14,22.11
+578,Marcaine,1/15/2017,12:07,1,51.66
+579,PREVNAR 13,1/29/2017,19:32,4,79.61
+580,Clonidine,01-02-2017,11:29,10,38.7
+581,Bisoprolol Fumarate and Hydrochlorothiazide,1/18/2017,19:13,17,51.13
+582,Neutrogena Healthy Skin Glow Sheers Illuminating Tinted Moisturizer - Light to Medium 30,01-09-2017,21:50,20,93
+583,Carafate,1/18/2017,17:03,12,14.19
+584,Naproxen,01-02-2017,15:01,1,11.4
+585,up and up ibuprofen,1/20/2017,18:44,20,75.76
+586,Cephalexin,1/21/2017,14:08,3,38.47
+587,CEFOTAXIME,1/19/2017,16:22,14,26.72
+588,TERPENICOL,1/20/2017,21:43,10,21.04
+589,Hand Sanitizer,01-06-2017,17:40,9,70.98
+590,Childrens,1/27/2017,18:41,20,67.01
+591,Arizona Ash,01-05-2017,17:54,11,87.78
+592,NUCYNTA,1/19/2017,10:31,14,85.73
+593,Banana Boat Mens,01-04-2017,21:15,20,7.8
+594,AMOXAPINE,01-12-2017,12:17,4,59.24
+595,LARIN Fe 1.5/30,01-12-2017,12:39,15,13.38
+596,Neutrogena Mineral Sheers,01-06-2017,13:51,11,50.38
+597,Elgin Instant Hand Sanitizer,1/17/2017,16:05,18,15.97
+598,Nortriptyline Hydrochloride,1/24/2017,14:40,14,53.96
+599,Oxygen,1/20/2017,14:17,1,20.94
+600,WhiskCare 357,1/14/2017,19:30,7,82.61
+601,Hydromorphone Hydrochloride,1/30/2017,18:27,7,45.03
+602,Betamethasone Valerate,1/21/2017,18:52,20,13.48
+603,DeNino Diaper Rash,01-06-2017,11:59,11,38.07
+604,VIIBRYD,1/17/2017,20:57,13,68.96
+605,healthy accents allergy relief,1/13/2017,13:09,13,26.14
+606,Sertraline Hydrochloride,01-04-2017,10:14,2,72.53
+607,Dicyclomine Hydrochloride,1/17/2017,13:29,16,15.84
+608,Warfarin Sodium,01-06-2017,10:08,15,68.39
+609,Potassium Chloride in Dextrose and Sodium Chloride,01-10-2017,12:23,10,46.29
+610,Morphine Sulfate,1/17/2017,13:10,16,23.58
+611,Fluocinonide,1/19/2017,21:42,19,57.93
+612,Methocarbamol,01-07-2017,13:35,9,51.56
+613,Duloxetine Hydrochloride,01-05-2017,11:00,4,99.8
+614,Pain Relief,1/21/2017,17:16,17,46.04
+615,Glimepiride,1/26/2017,20:47,7,83.4
+616,Badger Zinc Oxide Diaper Cream,1/20/2017,10:40,19,47.81
+617,Gingerhead Girl anti-bacterial SCENTED HAND SANITIZER,01-05-2017,18:08,15,66.69
+618,PROMETHAZINE HYDROCHLORIDE,01-09-2017,13:44,4,47.63
+619,Badger Unscented SPF 30 Sunscreen,1/20/2017,10:37,6,52.8
+620,Effexor,1/20/2017,20:19,17,26.98
+621,ZOOBY,1/24/2017,15:11,20,22.27
+622,Amlodipine Besylate,01-03-2017,11:29,18,50.19
+623,ERYTHROMYCIN ETHYLSUCCINATE AND SULFISOXAZOLE ACETYL,01-03-2017,15:59,10,24.36
+624,XtraCare instant Hand Sanitizer Aloe Vera,1/27/2017,14:10,13,79.22
+625,Mucus Relief DM MAX,1/25/2017,20:15,5,71.83
+626,"Pollens - Trees, Walnut, Black Juglans nigra",1/23/2017,11:08,7,58.79
+627,Citalopram Hydrobromide,1/30/2017,18:07,15,13.53
+628,promethazine hydrochloride and codeine phosphate,1/27/2017,14:03,8,83.79
+629,Peptic Relief Cherry,01-02-2017,14:33,16,32.49
+630,Bacitracin Zinc,1/18/2017,18:17,11,48.07
+631,Hemoforce,1/22/2017,14:26,17,6.6
+632,VP CH Plus,1/20/2017,15:03,13,65.75
+633,BONNOIR HAIR MEDI,1/19/2017,15:45,4,67.95
+634,Cromolyn Sodium,01-06-2017,19:50,16,22.49
+635,Oxybutynin Chloride,1/25/2017,16:28,14,21.35
+636,Disney Fairies Antibacterial Hand Wipes,01-06-2017,20:38,19,83.58
+637,McKesson Unna Boot with Calamine 4,1/14/2017,15:10,10,59.78
+638,Bio Mustard,1/20/2017,15:42,6,49.24
+639,Cilostazol,1/28/2017,20:19,14,88.52
+640,Doxy 100,01-03-2017,20:04,3,89.71
+641,Reef Safe SPF 50,1/18/2017,14:48,18,60.99
+642,Potassium Chloride,1/22/2017,11:37,11,78.54
+643,dextroamphetamine sulfate,1/27/2017,13:19,6,98.67
+644,Aqua Rush,1/19/2017,19:49,13,6.71
+645,equate childrens acetaminophen,01-11-2017,13:07,19,8.46
+646,Sani-Gel,01-10-2017,16:28,4,87.2
+647,Potassium Citrate,1/15/2017,19:37,3,74.8
+648,Cephalexin,01-10-2017,15:37,17,61.89
+649,risedronate sodium,1/28/2017,14:26,11,16.7
+650,SOLAR SENSE ZANY ZINC SPF 50 - WHITE,01-11-2017,15:34,5,72.23
+651,LBEL COULEUR LUXE AMPLIFIER XP,1/28/2017,15:20,8,28.66
+652,Modafinil,01-11-2017,19:22,15,13.14
+653,Supersmile,1/20/2017,19:28,20,20.69
+654,Lacura Ultimate Endurance Pure Sport,1/26/2017,19:55,12,20.86
+655,DERMATOLOGICAL SUN PROTECTION,1/18/2017,12:26,18,13.01
+656,Italian Rye Grass,1/13/2017,11:24,13,82.89
+657,Aspirin,1/14/2017,13:18,5,25.96
+658,S Balloon Slim Body Line,1/13/2017,21:27,11,57.33
+659,SHENG CHUN HERBAL,1/25/2017,16:41,4,43.76
+660,LAMICTAL,1/28/2017,13:55,11,23.14
+661,Phendimetrazine Tartrate,01-06-2017,13:22,7,36.18
+662,G-Dologen,01-07-2017,11:55,3,56.74
+663,Lovastatin,01-06-2017,13:17,9,18.67
+664,Clear Eyes Maximum Itchy Eye Relief,01-03-2017,21:32,14,34.94
+665,Ringers,1/19/2017,19:32,11,15.71
+666,Tramadol Hydrochloride,1/14/2017,12:45,7,80.11
+667,TINTED LIP CONDITIONER,1/19/2017,17:38,5,23.48
+668,Clozapine,1/26/2017,21:08,15,93.48
+669,Clarithromycin,01-04-2017,20:59,9,91.26
+670,CL-N,01-04-2017,13:54,8,74.87
+671,FAMOTIDINE,01-05-2017,21:51,19,49
+672,Montelukast,01-04-2017,18:59,9,94.59
+673,Nicardipine Hydrochloride,1/14/2017,20:14,3,47.78
+674,ARTEMISIA VULGARIS POLLEN,1/24/2017,15:32,7,24.69
+675,Dicyclomine Hydrochloride,01-11-2017,18:44,2,53.56
+676,Zidovudine,01-04-2017,18:25,18,15
+677,DILAUDID,01-04-2017,17:19,4,92.62
+678,LEVETIRACETAM,1/22/2017,15:00,8,9.01
+679,Senna S,01-08-2017,17:41,7,68.26
+680,Acetaminophen And Codeine,1/24/2017,14:26,14,71.49
+681,CENTER-AL - CORYLUS AMERICANA POLLEN,1/28/2017,15:27,13,82.92
+682,Paroxetine Hydrochloride,1/30/2017,10:45,6,10.03
+683,Cold n Cough 4 Kids,01-05-2017,12:31,5,99.07
+684,PRAMIPEXOLE DIHYDROCHLORIDE,1/19/2017,21:12,3,71.58
+685,LBEL LEDERM 45plus Jour,1/14/2017,18:23,5,79.36
+686,Blue Ice Analgesic,1/23/2017,11:59,2,11.48
+687,Dextroamphetamine Saccharate and Amphetamine Aspartate and Dextroamphetamine Sulfate and Amphetamine Sulfate,01-05-2017,16:05,16,71.46
+688,Aspergillus fumigatus,1/26/2017,16:30,8,71.33
+689,Ulta,1/28/2017,14:45,5,80.79
+690,SENSAI FLUID FINISH FF205,1/29/2017,18:03,11,74.49
+691,Oxycodone and Acetaminophen,01-05-2017,21:06,14,49.54
+692,Bumetanide,1/13/2017,19:29,12,75.99
+693,Terazol 3,1/28/2017,11:29,7,22.52
+694,Clonidine Hydrochloride,1/16/2017,21:25,3,38.07
+695,Allergy Mutli-Symptom,1/28/2017,16:53,18,44.35
+696,First Street Dishwasing Concentrate and Antimicrobial Hand,1/13/2017,17:03,16,53.63
+697,West Cottonwood,01-05-2017,11:24,2,57.22
+698,Amlodipine and Atorvastatin,01-03-2017,11:45,19,39.38
+699,Dialyvite 5000,1/13/2017,12:46,12,88.86
+700,Diltiazem Hydrochloride,1/28/2017,10:59,4,30.42
+701,CVS OIL FREE SPF 15,1/14/2017,15:45,17,22.93
+702,CEPHALEXIN,1/26/2017,16:33,14,71.14
+703,Bacti-Stat,1/27/2017,21:51,10,63.38
+704,Felodipine,1/18/2017,14:20,19,66.99
+705,Olanzapine,1/29/2017,18:54,14,47.58
+706,Acyclovir,1/14/2017,18:05,13,5.06
+707,Zubsolv,01-12-2017,15:03,15,17.12
+708,Anti-bacterial Hand,01-04-2017,10:39,17,55.8
+709,Dicyclomine,1/30/2017,13:54,7,95.12
+710,GenRx Daily Defense Antifungal,1/28/2017,15:02,20,7.54
+711,Assured Instant Hand Sanitizer,1/27/2017,12:31,11,57.17
+712,Natural Senna,1/16/2017,10:37,4,8.57
+713,Propranolol Hydrochloride,1/19/2017,20:28,16,15.65
+714,FERROUS SULFATE,1/30/2017,13:15,17,75.52
+715,METFORMIN HYDROCHLORIDE,01-09-2017,16:43,12,27.62
+716,Topcare Hemorrhoidal,01-09-2017,15:00,5,88.64
+717,Lorazepam,1/27/2017,21:38,6,8.69
+718,ARIZONA CYPRESS POLLEN,01-08-2017,16:11,18,53.72
+719,Losartan Potassium and Hydrochlorothiazide,1/14/2017,17:22,7,63.83
+720,Ceramide Plump Perfect Lip Moisture SPF 30,01-10-2017,12:41,3,93.18
+721,Metoclopramide,01-02-2017,14:19,18,71.31
+722,OXYGEN,01-07-2017,16:38,9,55.07
+723,Leader Hemorrholidal,1/16/2017,19:26,5,84.41
+724,BENICAR HCT,01-12-2017,20:28,16,95.13
+725,HealthMart Mucus Relief FM,1/22/2017,19:24,12,38.14
+726,Baclofen,01-09-2017,10:43,9,40.09
+727,Simvastatin,01-11-2017,17:08,1,71
+728,HYZAAR,01-06-2017,12:21,13,30.27
+729,PEPSOM SALT PEPPERMINT,01-04-2017,17:42,13,87.6
+730,Ecotrin Regular Strength,01-12-2017,19:33,13,10.6
+731,Acetaminophen,1/16/2017,20:06,1,58.14
+732,Gumsol,1/25/2017,21:16,6,81.28
+733,Head and Shoulders,01-05-2017,12:15,12,96.15
+734,Deferoxamine Mesylate,01-03-2017,19:27,17,37.28
+735,Gemfibrozil,1/24/2017,16:51,12,55.72
+736,SHISEIDO PERFECT REFINING FOUNDATION,01-09-2017,12:21,5,15.56
+737,Lamivudine,01-06-2017,21:56,16,29.33
+738,MINOXIDIL,01-05-2017,14:57,5,68.18
+739,Oxygen,1/25/2017,19:34,1,56.89
+740,Zolpidem Tartrate,1/20/2017,11:58,1,27.12
+741,fentanyl citrate,1/19/2017,20:52,11,80.73
+742,Lisinopril,1/13/2017,12:39,15,25.59
+743,ENALAPRIL MALEATE,1/28/2017,20:29,16,68.69
+744,pain and fever,1/16/2017,19:53,16,81.82
+745,Dill Seed,01-06-2017,15:35,11,88.53
+746,acyclovir,01-11-2017,13:15,20,76.72
+747,Q Tussin DM,1/28/2017,15:19,8,48.4
+748,Fluconazole,1/28/2017,13:12,12,92.43
+749,MILK OF MAGNESIA MINT,1/15/2017,18:45,20,65.05
+750,Aspergillus repens,1/17/2017,15:28,10,16.61
+751,Benztropine Mesylate,01-09-2017,19:03,15,43.71
+752,Valsartan and Hydrochlorothiazide,01-12-2017,19:53,11,29.36
+753,EROS BODY GLIDE,1/15/2017,11:53,19,74.2
+754,Coumarin,01-08-2017,19:18,12,73.48
+755,Amitriptyline Hydrochloride,01-11-2017,21:20,15,89.06
+756,Lovely ME EX BB PACT SPF20,1/15/2017,12:44,5,52.35
+757,TOKUHON-A External Analgesic Pain Relieving Medicated,1/14/2017,14:02,11,95.36
+758,ENALAPRIL MALEATE,1/13/2017,17:37,9,64.55
+759,LBEL REPLENISHING FOUNDATION SPF 14,1/16/2017,13:28,20,26.68
+760,Sun Care,1/27/2017,11:36,5,7.85
+761,Nitrous Oxide,01-06-2017,21:28,4,17.1
+762,Warfarin Sodium,01-04-2017,14:33,12,27.13
+763,DURAGESIC,01-11-2017,13:21,20,53.82
+764,Crest Pro-Health,1/15/2017,10:33,14,10.19
+765,SINGULAIR,01-04-2017,17:13,7,83.54
+766,Roqueforti,1/28/2017,16:51,16,50.15
+767,Ibuprofen,1/28/2017,14:35,16,59.83
+768,Secret Antiperspirant/Deodorant,1/17/2017,17:16,7,14.36
+769,Desoximetasone,01-06-2017,18:13,17,84.58
+770,Gabapentin,1/22/2017,10:39,13,33.11
+771,Sancuso,1/29/2017,14:13,8,69.51
+772,Trimethoprim,1/21/2017,17:09,5,83.93
+773,Givenchy Fluid Foundation Airy-light Mat Radiance SPF 20 Tint 5,01-06-2017,15:18,13,18.47
+774,Neptazane,01-08-2017,11:03,4,72.18
+775,Bronkids,01-04-2017,10:12,11,36.32
+776,Neomycin Sulfate,1/25/2017,17:08,7,37.66
+777,DIAPEDIC FOOT AND LEG TREATMENT,01-04-2017,21:10,13,13.11
+778,Venlafaxine Hydrochloride,01-08-2017,13:47,10,39.56
+779,Timolol GFS,1/25/2017,19:41,20,75.59
+780,Pramipexole Dihydrochloride,01-07-2017,16:23,1,46.57
+781,Oxygen,1/13/2017,21:49,17,97.22
+782,Smarth,01-05-2017,13:27,9,54.74
+783,Zilactin,1/30/2017,16:34,6,37.55
+784,Pinchot Juniper,01-08-2017,20:23,16,78.6
+785,Clear Advantage,1/23/2017,15:57,17,8.01
+786,PENNSAID,1/15/2017,14:15,1,59.98
+787,PureLife APF,01-03-2017,16:56,4,38.69
+788,COGHLANS SURVIVAL IN A CAN,1/19/2017,17:20,7,81.48
+789,Isosorbide Dinitrate,1/18/2017,20:23,2,22.36
+790,mucus er,01-09-2017,21:25,12,23.45
+791,COMMON MUGWORT POLLEN,1/15/2017,13:47,10,9.11
+792,OH Age recovery Tri Shield pact 10,01-03-2017,10:56,12,94.16
+793,Intervene Radiance Boosting Moisture SPF 15,01-11-2017,20:39,14,44.97
+794,Antispetic,1/25/2017,18:03,17,58.28
+795,Prednisone,01-03-2017,19:53,1,19.36
+796,Fluocinonide,1/20/2017,10:06,16,32.67
+797,Flawless Finish Dual Perfection Makeup SPF 8 Vanilla,1/17/2017,10:02,7,38.2
+798,Oregano,01-04-2017,15:44,7,6.05
+799,KETOROLAC TROMETHAMINE,1/14/2017,15:51,14,59.24
+800,NITROUS OXIDE,01-03-2017,10:25,18,77.52
