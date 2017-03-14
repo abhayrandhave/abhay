@@ -1,0 +1,1001 @@
+Pid,Pname,Date,Time,Quantity,Price
+1,Bacitracin,6/11/2007,21:16,4,64.51
+2,Pleo Oku,12/29/2012,19:36,18,79.80
+3,Lisinopril,12/7/2008,13:48,20,16.29
+4,sunmark ibuprofen,6/6/2012,19:14,18,66.32
+5,Isordil,2/16/2009,19:47,16,18.94
+6,MOZI-Q,6/17/2004,11:46,1,67.91
+7,Whole Wheat Grain,9/4/2003,16:51,4,62.88
+8,Mood Swings,1/11/2008,16:17,12,65.09
+9,DermaCen Instant Hand Sanitizer with Aloe,3/30/2009,14:46,3,47.31
+10,Neutrogena Spectrum Plus Face Advanced Oil Free,4/25/2005,19:49,2,22.08
+11,Modafinil,5/1/2001,15:04,18,91.34
+12,Isopropyl alcohol,12/4/2014,18:37,20,63.81
+13,Ranitidine,3/15/2010,10:22,10,34.63
+14,RISPERIDONE,5/15/2003,21:00,1,15.05
+15,BLEPHAMIDE,4/25/2011,12:28,17,52.94
+16,EARTHS CARE ARTHRITIS CREAM,1/31/2014,16:13,19,51.29
+17,Senna- S,7/25/2014,21:14,12,52.66
+18,Best Choice Cold Sore Treatment,3/27/2006,11:16,9,47.37
+19,Smooth Brome,7/15/2002,18:34,11,80.70
+20,Ciprofloxacin,4/1/2004,19:22,15,24.25
+21,Quetiapine Fumarate,12/21/2015,14:55,6,54.74
+22,Ketorolac Tromethamine,3/15/2008,15:26,12,51.11
+23,LidoCream 5,8/10/2015,12:19,12,47.89
+24,Preferred Plus Maximum Strength Urinary Pain Relief,1/17/2001,17:05,5,14.60
+25,naproxen sodium,6/29/2010,21:42,13,93.99
+26,Triazolam,7/27/2011,13:06,17,61.24
+27,Focus,6/4/2012,14:25,11,79.49
+28,Leucovorin Calcium,3/16/2015,18:53,9,76.77
+29,Silk Antibacterial Foaming Hand,3/8/2003,20:04,15,25.15
+30,Freshorize,10/22/2011,16:07,1,27.78
+31,Anti Nausea,12/15/2006,13:13,11,53.56
+32,Lovenox,9/29/2014,14:14,16,66.27
+33,Artalgia,2/4/2014,18:21,3,8.12
+34,Sunmark Iodides Tincture,4/24/2000,11:15,8,16.39
+35,Ranitidine,8/28/2002,11:03,4,60.30
+36,LA MER THE BROAD SPECTRUM SPF 50 UV PROTECTING FLUID,1/16/2000,18:16,6,20.28
+37,equate hemorrhoidal,7/27/2010,15:46,5,35.59
+38,ACD-A,12/27/2011,11:31,9,88.60
+39,Zaliex ALCOHOL-FREE Antiseptic Hand Sanitizer,6/3/2015,14:03,5,93.37
+40,Doxycycline,7/9/2003,16:42,1,52.58
+41,Lidocaine Hydrochloride,12/5/2007,19:03,19,43.29
+42,Promethazine Hydrochloride,5/5/2012,16:32,4,95.93
+43,Erythromycin,12/13/2010,14:31,5,28.90
+44,Lymph-Tone I,9/6/2007,21:23,8,18.88
+45,UNDECYLENIC ACID,7/20/2006,10:07,7,47.53
+46,Ear Care,5/18/2006,19:04,10,60.50
+47,fluorodine OXYGEN white Fluoride Anticavity,8/25/2008,14:36,19,51.44
+48,childrens pain and fever,2/11/2006,21:44,13,52.82
+49,Antidiarrheal Relief,2/14/2010,19:32,7,67.54
+50,Simvastatin,7/31/2006,15:46,9,30.87
+51,Cetirizine Hydrochloride,11/21/2006,13:48,16,70.91
+52,Safeguard,1/21/2015,11:15,17,52.91
+53,Valacyclovir hydrochloride,2/18/2012,10:23,10,71.19
+54,Pimento,9/14/2005,14:54,3,35.21
+55,BISACODYL,12/5/2001,12:53,19,47.42
+56,Warfarin Sodium,7/21/2015,17:35,12,13.98
+57,CYPROHEPTADINE HYDROCHLORIDE,6/28/2005,15:46,18,63.58
+58,Publix Alcohol,7/1/2005,10:11,10,11.08
+59,PMS Tone,1/21/2000,18:14,10,29.43
+60,Black Birch,9/21/2001,18:49,7,78.06
+61,Desipramine Hydrochloride,2/22/2010,16:59,12,79.97
+62,Sterile Water,6/12/2000,10:37,19,34.01
+63,Fosinopril Sodium,4/1/2012,13:56,14,52.38
+64,Ibuprofen,8/29/2002,21:51,1,55.12
+65,FIREFLY Barbie Fluoride Foam Bubblegum Flavor,7/21/2014,17:23,8,15.64
+66,Lidocaine Hydrochloride,7/29/2010,13:02,5,43.31
+67,nicotine,12/12/2009,13:36,10,60.52
+68,TOMATO WRINKLE SUN,11/11/2015,20:16,4,84.93
+69,Hypothalmus Tincture,12/4/2014,21:27,5,81.36
+70,Citranatal Harmony 2.1,9/4/2005,10:54,3,26.51
+71,TYLENOL,11/7/2001,21:27,6,97.13
+72,TETANUS TOXOID ADSORBED,4/30/2003,11:50,20,57.82
+73,HAWAIIAN Tropic,2/16/2000,20:41,7,11.60
+74,Olay Age Defying Anti-Wrinkle,8/18/2008,19:17,2,68.76
+75,Lidocaine,3/30/2009,11:06,2,66.39
+76,MEDI-FIRST Non-Aspirin,9/27/2005,19:20,11,82.40
+77,Anastrozole,7/27/2002,17:20,11,76.14
+78,Raloxifene Hydrochloride,5/6/2012,21:56,9,68.02
+79,SENEXON-S,3/28/2001,19:17,13,74.74
+80,Dental Clear Natural,3/8/2004,17:43,17,82.23
+81,BROMO SELTZER,2/6/2007,17:30,20,42.23
+82,HUMATROPE,12/14/2010,16:35,2,88.06
+83,MSM (MoSaengMo),4/18/2002,14:00,20,29.65
+84,Ultra dry antiperspirant,12/19/2013,20:47,3,25.70
+85,smart sense allergy,12/23/2012,20:34,3,54.34
+86,NORTRIPTYLINE HYDROCHLORIDE,4/14/2015,18:36,19,84.23
+87,"Insects (whole body) Cockroach, German Blatella germanica",2/23/2008,20:48,6,55.96
+88,Heparin Sodium,11/4/2013,10:46,12,51.52
+89,Secura Protective,6/26/2004,14:32,14,35.97
+90,Hydroxyzine Hydrochloride,6/10/2001,17:50,12,74.11
+91,Metoprolol succinate,10/18/2014,18:22,20,88.87
+92,Aveeno Eczema Therapy Bath Treatment,7/11/2007,15:07,2,34.44
+93,Amitriptyline Hydrochloride,7/31/2012,10:54,1,9.46
+94,OXAPROZIN,5/22/2013,18:14,13,56.62
+95,Amitriptyline Hydrochloride,5/10/2004,15:11,15,46.65
+96,TIAZAC,10/27/2005,17:58,17,76.38
+97,Protex,9/13/2002,21:43,2,45.46
+98,BOS TAURUS SKIN,8/8/2009,20:57,9,63.84
+99,UV Capture Sun Pact,9/29/2009,16:28,5,90.09
+100,Ibuprofen,12/13/2013,21:17,11,10.05
+101,Tribenzor,1/31/2010,10:44,15,14.55
+102,TODAYS HEALTH NASAL RELIEF ORIGINAL,4/4/2001,12:44,3,51.86
+103,Dove,11/4/2007,10:37,15,47.09
+104,HayFever Fighter,2/13/2013,10:19,4,31.58
+105,CLE DE PEAU BEAUTE SILKY FOUNDATION I,11/13/2014,17:04,10,91.49
+106,Fluoxetine,4/10/2003,12:02,10,58.26
+107,"carbidopa, levodopa and entacapone",12/16/2005,16:21,1,41.70
+108,MINOCYCLINE HYDROCHLORIDE,1/9/2003,13:15,13,26.87
+109,Peptic Relief,5/2/2007,18:20,1,71.89
+110,Bladder Incontinence,10/12/2000,21:27,13,96.15
+111,Dandruff Daily Care,11/26/2006,14:08,16,13.96
+112,No7 Lifting and Firming Foundation Sunscreen SPF 15 Porcelain,12/12/2009,12:00,20,66.41
+113,Prostin,9/20/2014,13:13,16,11.44
+114,Latuda,1/22/2010,21:19,5,50.23
+115,Nasohist,3/22/2008,21:25,3,77.27
+116,Iris germanica comp.,1/21/2011,18:50,17,39.02
+117,Up and UP Sensitive Toothpaste Enamel Strengthening formula,10/21/2014,21:30,10,39.63
+118,Oil Free Acne Wash,12/2/2005,15:26,4,42.72
+119,Lidocaine Hydrochloride,11/27/2009,15:21,9,10.01
+120,Virx,8/31/2015,14:58,19,5.17
+121,Anti-Bacterial Gentle Foaming Hand,5/23/2013,10:52,11,8.70
+122,Health Mart Aspirin,6/23/2014,19:51,12,40.00
+123,Cerezyme,2/12/2014,10:57,2,85.95
+124,Estradiol / Norethindrone Acetate,12/24/2005,18:21,13,89.03
+125,Ciprofloxacin,2/26/2008,15:54,15,91.22
+126,Tolnaftate,10/14/2003,21:40,12,22.38
+127,Oxandrolone,9/6/2005,17:14,8,28.70
+128,Shagbark Hickory,2/10/2006,15:40,3,74.75
+129,Select Brand Hemorrhoid,12/21/2010,15:38,15,52.05
+130,Dicyclomine Hydrochloride,12/22/2008,21:31,13,13.33
+131,Hydroxyzine Hydrochloride,5/22/2003,17:22,14,81.72
+132,Sertraline Hydrochloride,9/18/2012,20:07,10,15.34
+133,ARAMIS LAB SERIES POWER PROTECTOR,9/20/2001,17:32,14,81.46
+134,Tamsulosin Hydrochloride,3/10/2001,18:15,5,76.01
+135,Vasotec,7/27/2006,15:18,3,68.60
+136,Lorazepam,6/14/2006,21:13,11,49.42
+137,KETOROLAC TROMETHAMINE,5/14/2003,19:25,18,81.17
+138,Kogenate FS,10/14/2009,15:51,8,14.67
+139,Pleo Usti,6/23/2009,17:28,6,87.68
+140,Stavudine,7/31/2001,15:36,17,54.51
+141,No7 Lift and Luminate Foundation Sunscreen Broad Spectrum SPF 15 Cool Beige,7/20/2002,13:50,4,14.14
+142,Licorice,4/23/2003,17:55,15,62.64
+143,"Smut, Corn",11/16/2004,17:50,1,9.99
+144,CareOne All Day Allergy,8/10/2000,20:46,18,37.91
+145,Hydrogen Peroxide,8/30/2000,14:46,16,68.42
+146,fexofenadine,2/15/2013,20:12,4,85.83
+147,Losartan Potassium,11/10/2012,13:07,19,6.09
+148,LISINOPRIL AND HYDROCHLOROTHIAZIDE,12/21/2012,21:44,10,75.84
+149,Amoxicillin and Clavulanate Potassium,11/1/2012,13:08,11,44.30
+150,Neuac Kit,2/24/2001,19:00,13,78.17
+151,Vanilla Hand Sanitizer with vitamin E and aloe,4/23/2004,16:32,12,44.99
+152,Metoprolol Tartrate,12/1/2006,17:08,11,5.62
+153,Hot Stuff Cream,6/2/2011,16:40,6,83.84
+154,Minoxidil,12/8/2005,19:45,18,98.56
+155,ZIMS ADVANCED CRACK CREME WITH HYDROCORTISONE,3/16/2003,11:33,16,23.64
+156,Woodwards Mycocide Clinical NS,6/2/2011,14:55,3,10.77
+157,pravastatin sodium,5/14/2003,19:02,1,49.76
+158,RECOMBIVAX HB,5/1/2004,17:51,5,82.03
+159,Doxycycline Hyclate,4/25/2007,20:32,14,71.64
+160,CYCLOBENZAPRINE HYDROCHLORIDE,3/2/2015,18:44,14,39.62
+161,risperidone,1/29/2015,20:37,15,93.88
+162,Daytime Cold and Flu Relief,4/22/2011,12:16,6,85.24
+163,Botrytis cinerea,11/11/2008,20:37,20,31.84
+164,AMIODARONE HYDROCHLORIDE,10/13/2015,10:50,2,65.80
+165,OXYGEN,9/29/2001,21:44,7,68.40
+166,Proformance Antibacterial,3/9/2014,17:13,18,45.38
+167,Cormax,10/17/2010,17:33,15,11.54
+168,Immune Support,3/25/2006,18:06,11,84.05
+169,IT RADIANT CC CUSHION,4/24/2000,17:29,20,81.55
+170,Nalbuphine Hydrochloride,8/24/2009,16:56,8,24.00
+171,Choice Personal Care Cocoa Butter Scented Petroleum,6/16/2013,10:53,4,43.24
+172,Metoprolol succinate,5/2/2014,18:27,12,53.40
+173,FREDS ORIGINAL EYE DROPS,8/29/2009,11:50,6,6.61
+174,Escitalopram,1/13/2010,15:55,19,81.95
+175,Lisinopril and Hydrochlorothiazide,9/7/2015,13:18,13,44.37
+176,Womens Mitchum Advanced Invisible Antiperspirant Deodorant,8/1/2003,11:55,7,83.87
+177,Cyzone,4/5/2004,14:35,5,68.23
+178,Maracuja Miracle Foundation 12-Hour Foundation Broad Spectrum SPF 15 Sunscreen,2/20/2009,16:51,14,95.38
+179,PEPPERMINT,9/17/2001,17:07,9,82.67
+180,American Infection Control Antiseptic Hand Wipes,3/16/2005,18:27,17,14.55
+181,ESIKA HD COLOR HIGH DEFINITION COLOR SPF 20,9/26/2000,10:34,10,17.07
+182,Sun Shades Lip Balm,2/17/2009,20:01,13,93.55
+183,Dr. Dream Advanced Eye Treatment,11/8/2002,19:29,13,77.10
+184,White Ash,4/27/2011,21:32,2,99.27
+185,Bacitracin Zinc,4/29/2011,15:22,4,43.19
+186,HYDRA LIFE PRO-YOUTH SKIN TINT 2,12/7/2001,19:06,5,97.87
+187,kids cold,7/28/2009,14:39,15,24.67
+188,kirkland signature quit 4,5/5/2007,12:31,6,29.15
+189,TUMS,1/7/2004,12:57,8,67.21
+190,Warfarin Sodium,8/5/2011,15:01,19,9.98
+191,Glyburide and Metformin,11/10/2012,17:15,11,58.76
+192,BIOTOX BAC,7/7/2012,21:04,3,87.17
+193,METHYLPREDNISOLONE,7/20/2000,21:50,13,58.22
+194,Diltiazem Hydrochloride,9/21/2000,11:58,19,28.95
+195,Soma,3/12/2012,15:46,20,36.15
+196,Polymyxin B,4/9/2001,11:01,4,42.53
+197,Lisinopril,7/19/2003,12:49,20,48.50
+198,Diclofenac Potassium,1/18/2000,11:50,6,19.64
+199,Rx Act Nasal Decongestant,9/16/2004,13:26,14,36.05
+200,Doxycycline,2/4/2015,15:26,2,42.14
+201,Tartar control plus,12/4/2015,10:17,11,90.00
+202,Desvenlafaxine,6/17/2004,19:03,20,31.90
+203,berkley and jensen nicotine,6/14/2001,15:37,13,41.41
+204,Diphenhydramine Hydrochloride,12/1/2011,18:13,5,43.94
+205,IBUPROFEN,5/9/2002,11:13,11,38.32
+206,triamcinolone acetonide,12/10/2009,15:03,13,17.44
+207,Oxaliplatin,8/30/2008,20:24,9,39.81
+208,OXYGEN COMPRESSED,9/17/2000,18:58,6,91.63
+209,Antiseptic,5/6/2001,11:09,17,85.34
+210,Doxepin Hydrochloride,12/29/2003,17:38,8,72.06
+211,Ofloxacin,9/4/2003,19:14,12,97.24
+212,Spironolactone,8/31/2009,16:08,19,84.35
+213,INTRON A,7/6/2013,13:20,13,40.46
+214,Risperidone,9/12/2012,18:05,16,9.96
+215,Gemcitabine,12/19/2003,14:31,10,44.77
+216,Clodan Kit,8/13/2014,18:53,14,67.43
+217,Alendronate Sodium,10/24/2006,21:34,7,48.58
+218,Instant Hand Sanitizer,10/15/2007,13:20,8,92.12
+219,Morphine Sulfate,8/13/2006,20:40,14,67.20
+220,Hydrochlorothiazide,11/30/2000,19:50,17,25.94
+221,Headache Cough,3/18/2014,13:39,5,55.65
+222,PREDNISONE,10/24/2015,10:37,19,58.45
+223,Harris Teeter,6/5/2010,17:39,6,31.22
+224,Clopidogrel,5/25/2009,16:40,20,97.34
+225,NITROFURANTOIN MACROCRYSTALS,4/22/2009,13:08,4,32.26
+226,Montelukast Sodium,8/6/2009,14:36,4,56.51
+227,Hand Sanitizer,5/15/2013,20:00,14,81.78
+228,SOORYEHAN HYO FERMENTED SUN BLOCK,10/2/2005,11:02,2,92.72
+229,ACT Anticavity Fluoride Mint,12/13/2015,15:36,11,35.52
+230,Promethazine Hydrochloride,11/1/2007,11:24,15,50.06
+231,Otoflam,2/10/2009,18:46,1,25.41
+232,Cefdinir,7/18/2013,20:20,6,41.50
+233,Blemish Potion,4/17/2012,16:24,1,64.26
+234,Hypoglycemia,12/4/2003,18:57,4,67.85
+235,GRAPEFRUIT,11/8/2006,20:42,8,15.29
+236,ESIKA,7/16/2005,10:50,14,95.95
+237,Nitrous Oxide,4/23/2009,14:21,15,34.18
+238,Edex,3/17/2014,18:17,12,52.13
+239,INSTANT HAND SANITIZER,8/27/2010,20:36,14,11.08
+240,Diltiazem Hydrochloride,6/18/2014,19:59,9,14.16
+241,EQUALINE BLUE ICE PAIN RELIEVING,8/3/2013,10:06,12,64.24
+242,Cardene,4/19/2009,19:46,8,56.26
+243,OXYGEN,4/25/2000,21:18,1,12.34
+244,Femara,9/7/2012,11:31,8,91.94
+245,Loperamide Hydrochloride,3/8/2010,16:07,12,32.52
+246,MRCL,3/30/2008,21:45,10,58.74
+247,Platinum for Men,5/20/2013,17:21,17,8.59
+248,Leader Sinus and Allergy PE,7/12/2004,11:07,19,88.41
+249,lisinopril,12/4/2005,11:35,7,23.16
+250,Natural Pain Relieving Lavender Breeze,6/5/2003,10:16,10,52.91
+251,Green Pea,3/4/2009,15:58,19,67.81
+252,Everyday Sunscreen Broad Spectrum SPF 30,7/20/2011,11:47,6,10.63
+253,Gabapentin,9/13/2000,20:10,11,67.09
+254,Pedipirox-4 Nail Kit,1/13/2004,17:21,7,22.19
+255,Ceftriaxone,7/12/2009,20:02,11,32.60
+256,Sclerosol,6/11/2001,18:08,19,83.05
+257,Cefepime,10/5/2007,16:41,18,33.82
+258,Irbesartan,8/21/2001,16:33,8,85.46
+259,Backache Relief,4/13/2012,10:07,11,94.10
+260,Thyreoidea Compositum,8/14/2011,12:52,6,94.07
+261,Clean Force,12/8/2007,14:03,12,87.64
+262,Piperacillin and Tazobactam,12/18/2015,13:51,7,89.69
+263,The Natural Dentist,6/24/2010,13:05,4,62.98
+264,Isosorbide Mononitrate,10/29/2002,13:56,10,59.75
+265,Vaginitis,7/14/2007,10:37,12,26.10
+266,Quinapril,12/21/2015,11:57,10,52.74
+267,family wellness hemorrhoidal,6/26/2006,10:54,20,97.02
+268,Ibuprofen,2/26/2000,21:47,16,16.20
+269,Atenolol,1/3/2007,12:26,16,14.69
+270,Loratadine,4/7/2012,10:45,10,99.01
+271,Stalevo,1/10/2012,11:58,12,98.54
+272,Ibuprofen,12/20/2002,11:14,5,74.23
+273,Acne,11/22/2009,17:07,3,76.34
+274,Metoprolol Tartrate,8/18/2000,14:43,20,51.44
+275,ACTONEL,7/15/2015,12:01,11,93.19
+276,DRY SORE THROAT,9/15/2005,11:09,19,85.57
+277,Folic Acid,8/29/2001,13:27,13,43.88
+278,Disney PIXAR MONSTERS UNIVERSITY Antibacterial Hand Wipes,2/13/2007,10:06,15,22.01
+279,Cladosporium fulvum,12/29/2001,14:13,3,60.00
+280,Mango,7/25/2015,10:16,1,7.84
+281,ACER NEGUNDO POLLEN,5/5/2011,13:45,8,67.04
+282,MEDICHOICE ANTICAVITY FLUORIDE,9/10/2001,19:17,7,42.62
+283,Bismatrol,12/21/2010,19:01,5,6.61
+284,Midodrine HCl,11/14/2010,17:25,12,31.04
+285,Laxative pills,5/19/2010,16:59,1,71.03
+286,Famotidine - Acid Controller,7/23/2003,20:19,12,90.63
+287,Topiramate,6/19/2002,13:05,4,84.06
+288,Valacyclovir Hydrochloride,5/11/2007,14:02,12,27.60
+289,Sumatriptan Succinate,10/20/2004,16:40,11,9.33
+290,Upper Respiratory Staph Strep Combination,10/7/2004,18:09,6,67.71
+291,Torsemide,3/2/2009,11:39,12,63.72
+292,Aquafresh,6/20/2005,10:02,18,31.86
+293,Hydrocodone Bitartrate and Acetaminophen,10/15/2015,17:18,18,44.09
+294,FERROUS SULFATE,12/3/2000,13:29,15,40.99
+295,galantamine hydrobromide,2/15/2004,16:01,4,16.71
+296,ZONISAMIDE,3/27/2013,21:04,13,51.62
+297,Penicillin V Potassium,11/30/2005,10:33,3,91.16
+298,Alinia,6/19/2005,14:12,13,46.36
+299,Natural Fluoride Fresh Mint,2/6/2012,15:01,5,22.21
+300,AMERFRESH ANTIPERSPIRANT DEODORANT,11/11/2013,11:51,2,86.70
+301,Pravastatin Sodium,5/22/2000,13:22,20,39.84
+302,GOOD NEIGHBOR PHARMACY Isopropyl Alcohol Wipes,2/15/2003,19:19,3,40.12
+303,Cystadane,10/29/2004,20:35,7,31.11
+304,BC Cherry,12/17/2005,18:35,15,34.95
+305,Terazosin hydrochloride,3/6/2009,10:50,6,11.65
+306,Promethazine Hydrochloride,3/6/2012,21:39,16,84.93
+307,Allergy and congestion relief,7/19/2014,15:45,7,64.07
+308,Temazepam,1/15/2000,15:44,15,61.10
+309,Childrens Ibuprofen,10/29/2014,17:42,8,8.79
+310,Loperamide Hydrochloride,11/3/2002,11:13,17,68.77
+311,NHS Flu Fever Sudden Onset,4/8/2006,20:40,13,8.91
+312,DentiCare Pro-Foam,2/21/2000,19:39,19,78.25
+313,Sertraline Hydrochloride,4/13/2013,14:24,4,59.29
+314,Diltiazem Hydrochloride,8/20/2002,21:07,6,34.09
+315,Levsin,10/28/2002,18:10,11,46.67
+316,Tilia Fe,8/5/2002,21:34,4,64.33
+317,Sucralfate,3/2/2014,21:35,13,41.89
+318,Pantoprazole Sodium,6/18/2009,10:02,8,30.28
+319,Good Care Surgical Brush With Nail Cleaner,7/1/2015,17:52,2,76.05
+320,NMC Staypot double programing cream,7/28/2006,20:27,18,85.08
+321,Ondansetron,8/14/2012,16:08,17,21.61
+322,equaline ibuprofen,8/17/2015,10:06,10,60.62
+323,Sheep Sorrel,1/30/2013,20:50,20,44.64
+324,Neomycin and Polymyxin B Sulfates and Dexamethasone,12/7/2003,16:36,4,10.99
+325,Visine Tears,8/15/2008,14:37,14,27.32
+326,amlodipine besylate and atorvastatin calcium,6/22/2014,18:47,4,48.99
+327,Wheat Smut,1/26/2010,11:04,2,34.88
+328,Sulfamethoxazole and Trimethoprim,3/14/2002,19:14,5,19.28
+329,CleanWell Natural Orange Vanilla Hand Sanitizer,1/14/2005,16:38,18,22.40
+330,Calcium,6/4/2002,21:17,12,57.46
+331,Ketorolac Tromethamine,7/14/2010,10:01,19,19.77
+332,HAWAIIAN Tropic,5/15/2006,14:04,8,18.86
+333,Coppertone Sport,3/16/2013,17:24,10,17.08
+334,Acyclovir,6/25/2001,12:08,6,32.10
+335,simply right cetirizine hydrochloride,10/13/2007,11:43,18,73.46
+336,METRONIDAZOLE,4/26/2004,19:30,2,31.81
+337,Hydrocortisone,1/31/2015,10:18,7,46.48
+338,MUSCLE SPASMS,4/20/2007,14:29,7,47.65
+339,ROBITUSSIN NIGHT TIME COUGH AND COLD,11/26/2000,11:01,18,86.56
+340,LEADER Chest Congestion Relief,12/4/2004,15:08,8,57.16
+341,Hemorrhoidal,11/8/2011,18:38,2,54.45
+342,Good Neighbor Pharmacy Nicotine,5/30/2014,12:11,9,54.29
+343,CapCof,11/20/2007,18:20,12,89.96
+344,OATS FOOD,11/23/2009,10:30,2,93.14
+345,Shopko Antibacterial Hand Sanitizer,1/18/2010,19:46,1,88.74
+346,Lamivudine,10/17/2008,15:57,16,76.65
+347,good sense itch relief,12/30/2008,11:57,20,74.95
+348,Topcare Sinus Relief Day Time Night Time,1/27/2013,20:47,10,15.98
+349,Pain Relief,3/10/2010,18:06,18,94.12
+350,Dicloxacillin Sodium,9/18/2008,21:00,7,33.62
+351,Warfarin Sodium,10/27/2007,16:39,16,92.47
+352,Drummond American Trade Wind Antimicrobial,1/15/2008,19:34,20,87.57
+353,flormar Soft Touch Foundation Sunscreen Broad Spectrum SPF 20 ST07 Caramel,5/10/2005,10:12,4,24.17
+354,Gentamicin Sulfate,11/8/2006,12:01,6,60.38
+355,Progesterone Injection,1/21/2006,12:21,1,15.92
+356,Astragalus Formica,6/2/2000,11:00,19,53.39
+357,Risperidone,6/18/2000,12:38,9,32.86
+358,SULAR,4/26/2007,19:02,7,96.18
+359,Levothyroxine Sodium,11/17/2009,20:17,2,78.27
+360,Dorzolamide HCl,1/8/2011,19:48,17,44.60
+361,T-Chem E2 Rated,1/22/2014,18:33,9,62.87
+362,Equate,4/16/2008,10:42,18,23.99
+363,DROXIA,6/22/2001,10:40,15,64.03
+364,Ropinirole Hydrochloride,12/17/2008,14:47,5,30.57
+365,EMEND,9/29/2004,21:37,9,99.89
+366,Ropinirole,5/30/2009,13:27,12,77.25
+367,Losartan Potassium and Hydrochlorothiazide,6/15/2010,20:20,17,20.75
+368,MAR-COF CG,8/27/2009,13:11,2,16.34
+369,Tolazamide,10/3/2012,18:15,2,36.37
+370,allergy,4/4/2011,17:53,10,98.29
+371,PreferaOB One,3/17/2013,21:06,10,55.61
+372,Banana Boat Ultra Defense Sheer Protect SPF 30,5/21/2007,14:15,9,40.72
+373,IBU,7/5/2001,15:13,7,94.23
+374,Cefdinir,6/28/2004,15:06,11,28.36
+375,MENOPAUSE,10/11/2008,18:34,10,86.37
+376,Mango Blossom,7/12/2000,21:40,9,26.15
+377,Ipratropium Bromide,6/8/2003,18:43,7,28.77
+378,Sumatriptan Succinate,5/12/2003,18:31,10,99.43
+379,Oil Free Matte,2/11/2006,15:58,7,59.93
+380,Venlafaxine,7/14/2014,16:53,18,94.85
+381,Hydrogen Peroxide,7/16/2011,20:17,19,89.56
+382,Amlodipine Besylate and Benazepril Hydrochloride,6/5/2008,12:47,1,91.71
+383,Doxycycline Hyclate,9/24/2014,13:07,9,28.23
+384,Triamterene and Hydrochlorothiazide,2/21/2011,13:55,6,64.73
+385,Ibuprofen,1/12/2004,15:48,18,39.72
+386,AGAVE AMERICANA,3/11/2006,10:54,9,62.75
+387,Mycophenolate Mofetil,1/14/2000,20:16,6,28.23
+388,Enalapril Maleate,1/15/2006,12:22,8,52.40
+389,Venlafaxine,12/16/2004,17:52,18,78.58
+390,Acetaminophen PM Rapid Release,5/8/2008,10:50,18,90.55
+391,Head and Shoulders Classic Clean Dandruff,9/13/2003,15:57,20,23.26
+392,ProState Relief,9/23/2011,16:40,10,45.19
+393,ELCURE C Serum,4/22/2008,15:13,8,85.03
+394,vancomycin hydrochloride,2/6/2012,10:49,14,15.68
+395,BURBERRY FRESH GLOW B.B. LUMINOUS SKIN PERFECTING BEAUTY BALM SUNSCREEN BROAD SPECTRUM SPF 20 DARK 03,3/21/2015,21:15,4,79.76
+396,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,1/14/2001,10:46,1,21.85
+397,CYZONE,6/14/2001,13:04,14,53.80
+398,Oxygen,2/26/2001,13:02,4,20.53
+399,smart sense allergy,10/9/2011,19:09,3,50.87
+400,infants pain and fever,3/26/2014,20:37,4,95.59
+401,Dial Gold Antibacterial Soap,6/18/2015,17:01,2,10.34
+402,Ketorolac Tromethamine,11/3/2003,11:46,3,52.45
+403,Ziprasidone Hydrochloride,4/28/2014,15:27,19,44.39
+404,CENTER-AL - BETULA LENTA POLLEN,2/4/2002,10:31,17,95.28
+405,daytime severe,6/8/2005,19:15,5,48.17
+406,CLEAR CELL Medicated Acne Scrub,6/14/2000,10:20,16,9.54
+407,Summer Bisque Foundation SPF 20,12/23/2007,11:39,12,39.41
+408,Spironolactone and Hydrochlorothiazide,3/14/2008,13:26,19,87.20
+409,Enoxaparin Sodium,10/14/2001,17:02,4,91.71
+410,povidine iodine,2/9/2000,20:59,11,19.01
+411,Theophylline,1/18/2012,14:57,8,79.23
+412,Tacrolimus,4/1/2007,12:11,5,82.66
+413,Fondaparinux Sodium,11/25/2003,16:28,9,20.85
+414,Salicylic Acid,9/20/2013,16:46,3,40.71
+415,Western Family,3/5/2001,14:11,19,65.54
+416,Pineapple Orange Antibacterial Foaming Hand Wash,2/22/2003,16:45,1,25.07
+417,ziprasidone hydrochloride,1/11/2010,16:40,19,55.92
+418,Topiramate,11/22/2013,18:15,6,80.72
+419,Diazepam,5/20/2013,15:15,17,77.69
+420,Ulta Fresh Spice Anti-Bacterial Deep Cleansing,3/22/2001,14:22,4,61.83
+421,CEFACLOR,7/12/2013,11:10,18,56.19
+422,Baclofen,11/7/2005,20:16,6,46.24
+423,BUPROPION HYDROCHLORIDE,2/7/2004,13:30,3,86.21
+424,bisoprolol fumarate,11/19/2002,10:16,13,60.53
+425,Treatment Set TS347484,7/16/2014,13:18,16,11.03
+426,LBEL COULEUR LUXE AMPLIFIER XP,9/2/2003,11:37,17,75.63
+427,Lamotrigine,12/30/2000,13:35,4,18.72
+428,ORGAN-I NR,2/4/2003,10:29,17,98.79
+429,Morphine Sulfate,6/9/2000,13:31,18,71.35
+430,Heparin Sodium,8/3/2007,16:20,5,27.37
+431,Sinus PE And Allergy Maximum Strength,4/12/2002,13:37,17,43.04
+432,Lisinopril,7/1/2008,10:28,11,17.42
+433,ropinirole hydrochloride,4/18/2007,12:38,18,10.14
+434,Clearasil,4/9/2009,16:16,5,72.32
+435,Male Complex,10/24/2000,18:35,13,13.14
+436,Restless Leg,1/23/2002,13:00,5,64.61
+437,Aspergillus,7/12/2015,16:10,15,41.63
+438,Midazolam,5/3/2014,10:15,11,59.81
+439,Furosemide,10/8/2004,12:05,20,75.52
+440,Heparin Sodium,5/17/2009,10:27,14,26.50
+441,Extra Strength Pain Reliever,3/11/2007,10:42,10,80.24
+442,Xylocaine,4/29/2008,12:46,13,89.96
+443,Hyoscyamine Sulfate,10/21/2008,14:35,18,24.60
+444,Omeprazole Magnesium,5/21/2007,21:51,20,75.67
+445,Dill,5/13/2009,16:16,5,55.62
+446,simvastatin,1/19/2005,20:57,17,90.58
+447,Paclitaxel,2/23/2006,16:05,11,90.05
+448,Halobetasol Propionate,6/10/2001,10:20,10,41.66
+449,Rohto,9/18/2012,13:55,13,66.23
+450,GARDASIL,8/7/2009,21:53,9,61.12
+451,SkinTx Sunscreen,5/21/2007,11:00,2,54.28
+452,Lymph Detox,3/17/2015,19:05,1,95.30
+453,Haloperidol,6/7/2006,16:55,17,18.34
+454,Piroxicam,8/11/2008,14:06,9,80.88
+455,Treatment Set TS345694,9/30/2001,18:10,9,70.36
+456,Warfarin Sodium,3/4/2013,10:38,14,81.55
+457,Motion Sickness,3/16/2013,10:18,17,46.73
+458,Triamterene and Hydrochlorothiazide,9/16/2014,12:41,3,16.96
+459,REFRESH PLUS,10/31/2004,10:14,8,34.08
+460,Metoprolol Succinate,11/17/2015,15:42,8,8.69
+461,Nucynta,2/18/2010,19:06,18,54.37
+462,Prosacea,2/16/2009,12:05,4,21.88
+463,Nisoldipine,8/26/2009,15:17,16,93.00
+464,Smart Sense ibuprofen,10/6/2000,20:12,4,30.63
+465,NWC21 NATURAL SUN PROTECTOR,1/10/2003,20:19,12,21.60
+466,Argentum Nitricum Kit Refill,8/28/2013,18:35,3,30.73
+467,POTASSIUM CHLORIDE,6/4/2006,14:29,9,69.86
+468,Triple Flu Defense,2/8/2003,10:02,5,93.50
+469,childrens mucus relief,9/6/2011,13:56,13,46.00
+470,Baby Eczema Moisturizing,7/28/2015,20:47,16,19.23
+471,Cefprozil,2/1/2011,16:17,8,32.86
+472,Nor QD,3/26/2009,18:20,5,83.77
+473,HYVEE,8/19/2002,17:47,15,67.95
+474,Hydroxyzine Hydrochloride,1/8/2013,18:32,14,70.43
+475,Viral Plus,4/10/2011,14:29,2,62.53
+476,GOONG SECRET MILD SUN,4/19/2003,19:37,7,50.78
+477,Antiseptic Rinse,9/19/2011,20:51,14,66.41
+478,Triple Antibiotic,10/18/2003,10:53,11,56.70
+479,Sunmark Calamine,2/11/2006,18:22,13,15.26
+480,Softlips Pure Lip Gloss,6/7/2005,19:47,2,44.75
+481,Barium Conchae Mercurius Special Order,12/15/2006,10:11,19,54.79
+482,Glyburide,3/24/2010,14:42,6,61.94
+483,Betapace,7/20/2003,10:25,13,35.45
+484,No7 Lifting and Firming Foundation Sunscreen SPF 15 Porcelain,2/24/2012,17:32,4,8.35
+485,Naturals by Safety 1st,9/12/2000,21:53,7,63.83
+486,WHITE MALLOW DIAPER RASH CREAM,4/4/2013,16:47,16,29.05
+487,Corn Grass,8/19/2009,20:01,6,75.45
+488,Levothyroxine Sodium,5/6/2012,18:37,2,81.83
+489,Ciprofloxacin,9/25/2009,18:25,20,58.82
+490,Waterless Hand Sanitizer,2/22/2008,19:10,4,91.28
+491,Anticavity,3/2/2010,12:31,12,50.90
+492,Meijer Sport SPF 50,8/5/2002,14:04,5,32.76
+493,Oxygen,7/4/2013,15:42,9,30.22
+494,Terbinafine Hydrochloride,4/26/2010,20:18,6,51.42
+495,Simvastatin,5/23/2008,21:48,3,84.26
+496,Simvastatin,8/18/2003,20:06,12,48.24
+497,Nabumetone,8/31/2013,10:11,19,52.48
+498,Epinephrine,11/29/2005,14:47,11,25.97
+499,Cyclobenzaprine Hydrochloride,7/14/2009,21:38,8,29.05
+500,Antibacterial Foaming Hand,6/27/2007,12:12,1,25.38
+501,COUMADIN,5/10/2015,11:46,5,67.05
+502,Diarrhea,11/6/2008,11:29,3,16.67
+503,MENEST,10/9/2000,20:39,7,65.04
+504,Amlodipine Besylate,10/3/2014,21:46,13,82.80
+505,Rouge Dior 870 Ruby Serum,3/7/2012,18:12,6,97.51
+506,Simvastatin,4/3/2003,15:20,6,53.04
+507,Verapamil Hydrochloride,8/27/2012,18:56,9,55.34
+508,Valacyclovir hydrochloride,6/28/2002,12:35,3,30.82
+509,TOMATO SUN,6/24/2010,15:00,13,66.64
+510,ANAFRANIL,9/5/2009,19:36,13,59.88
+511,acarbose,5/19/2002,16:34,6,72.39
+512,Ohtas Isan Antacid,12/21/2007,18:06,11,98.31
+513,Valproate Sodium,12/21/2004,19:56,15,85.59
+514,Eye Irritation,3/18/2009,21:50,20,70.29
+515,RISPERIDONE,1/12/2003,18:23,12,70.22
+516,Equaline tussin cough and chest congestion,9/1/2011,15:40,19,81.68
+517,Head and Shoulders,9/21/2013,16:38,2,54.62
+518,topiramate,7/28/2004,15:03,2,55.47
+519,Causticum Kit Refill,3/2/2010,21:14,4,56.50
+520,Losartan Potassium,6/28/2003,21:42,6,82.47
+521,Nu Skin Nu Colour,7/4/2001,20:33,8,33.04
+522,Risperidone,6/7/2006,13:49,8,91.60
+523,Duloxetine,4/29/2011,19:14,3,99.52
+524,Ranitidine,12/13/2005,17:44,20,24.43
+525,Tinactin,6/12/2004,10:23,11,17.86
+526,Halls,6/24/2010,13:47,16,33.32
+527,Petroleum Skin Protectant,2/21/2006,14:50,17,71.61
+528,Ibuprofen,4/23/2007,17:10,7,32.90
+529,Acyclovir,2/9/2014,21:59,18,81.84
+530,Hydrochlorothiazide,2/8/2012,11:38,5,51.32
+531,Nifediac CC,6/8/2005,21:14,4,67.32
+532,Heparin Sodium,10/14/2003,13:09,10,92.71
+533,Oxaliplatin,3/22/2008,13:45,2,36.97
+534,Stool Softener,6/4/2000,15:11,4,99.31
+535,OHUI Sun Science intensive sunblock cake EX,8/23/2002,10:37,8,71.90
+536,American Beech,7/8/2012,15:28,13,62.50
+537,Corlopam,5/10/2008,21:14,8,89.93
+538,MERREM,7/13/2003,11:02,8,23.67
+539,Sunmark sleep aid,5/20/2011,16:45,11,45.32
+540,NITROGEN,9/3/2010,18:18,16,77.90
+541,migraine relief,4/17/2012,15:31,11,23.65
+542,Lorazepam,6/7/2006,13:38,9,70.66
+543,Gabapentin,5/11/2003,17:38,1,88.38
+544,Quetiapine fumarate,11/22/2005,12:23,11,7.70
+545,sunmark day time cold and cough,2/28/2003,11:20,5,29.59
+546,Berberis Urtica,8/26/2012,13:27,15,22.20
+547,Famotidine,2/17/2013,19:02,11,21.78
+548,Bupropion hydrochloride,5/1/2015,21:57,8,88.85
+549,Female Balance,9/30/2004,10:18,3,80.51
+550,GBG AloeGel Instant Hand Sanitizer,10/22/2012,21:21,5,62.67
+551,Head and Shoulders 2in1,12/25/2004,15:30,18,35.06
+552,Naproxen,7/29/2013,10:33,9,24.15
+553,Toffee Always color stay-on Makeup Broad Spectrum SPF 15,5/14/2012,11:14,18,61.97
+554,Guaifenesin and Codeine Phosphate,12/20/2005,15:50,3,51.82
+555,ADVAIR HFA,1/15/2011,13:33,10,48.05
+556,Childrens Ibuprofen,8/22/2009,20:55,2,73.07
+557,Metformin Hydrochloride,4/25/2002,13:48,7,56.44
+558,Depo-Provera,1/23/2008,20:26,2,85.75
+559,Prastera,7/17/2000,13:58,4,11.52
+560,Risperidone,6/13/2003,13:52,4,78.92
+561,Hydrocodone Bitartrate and Acetaminophen,12/23/2006,16:04,5,11.14
+562,lice killing,4/3/2002,17:18,19,55.89
+563,Acid Reducer,5/23/2000,10:56,13,45.73
+564,SHISEIDO SHEER AND PERFECT COMPACT (REFILL),9/27/2007,11:18,1,18.49
+565,Clorazepate Dipotassium,6/9/2003,17:36,2,91.32
+566,Buminate,7/19/2004,12:15,3,31.53
+567,Silk,2/25/2013,21:14,11,92.18
+568,PROSOPIS JULIFLORA POLLEN,8/17/2001,13:29,11,75.00
+569,AUBRA,6/18/2013,21:27,6,29.75
+570,Prednisone,10/17/2001,16:43,10,13.43
+571,Valproic Acid,7/2/2005,19:09,17,91.52
+572,Lovenox,10/24/2009,14:11,13,98.22
+573,Oxygen,7/24/2014,12:40,12,88.21
+574,Diclofenac Sodium,7/15/2000,21:20,2,40.85
+575,Poverty Weed,5/24/2011,19:57,7,34.30
+576,Promethazine Hydrochloride,10/4/2006,10:22,9,5.32
+577,BiferaRx,9/1/2005,11:25,12,34.38
+578,Marcaine,4/18/2007,21:09,3,7.23
+579,PREVNAR 13,9/30/2000,20:58,10,33.86
+580,Clonidine,4/15/2004,12:25,10,51.74
+581,Bisoprolol Fumarate and Hydrochlorothiazide,8/3/2015,16:58,17,22.93
+582,Neutrogena Healthy Skin Glow Sheers Illuminating Tinted Moisturizer - Light to Medium 30,12/29/2009,10:48,14,5.79
+583,Carafate,8/10/2011,15:30,18,89.11
+584,Naproxen,9/29/2007,12:11,9,29.68
+585,up and up ibuprofen,10/19/2005,19:00,9,52.51
+586,Cephalexin,10/10/2004,17:07,17,79.54
+587,CEFOTAXIME,3/2/2014,20:53,11,31.45
+588,TERPENICOL,7/11/2000,20:12,1,90.62
+589,Hand Sanitizer,7/7/2012,11:27,12,68.85
+590,Childrens,8/31/2003,19:06,19,90.79
+591,Arizona Ash,5/14/2011,15:32,12,59.61
+592,NUCYNTA,1/16/2012,13:45,11,60.08
+593,Banana Boat Mens,2/28/2013,18:27,6,99.78
+594,AMOXAPINE,6/25/2004,17:06,1,96.36
+595,LARIN Fe 1.5/30,9/1/2014,14:17,5,36.89
+596,Neutrogena Mineral Sheers,4/15/2009,21:20,4,53.03
+597,Elgin Instant Hand Sanitizer,10/30/2012,12:37,20,53.22
+598,Nortriptyline Hydrochloride,11/29/2011,12:54,14,31.66
+599,Oxygen,11/14/2000,18:54,9,63.74
+600,WhiskCare 357,3/10/2003,21:15,18,81.55
+601,Hydromorphone Hydrochloride,12/30/2009,14:02,12,40.83
+602,Betamethasone Valerate,10/17/2005,19:18,1,8.20
+603,DeNino Diaper Rash,12/11/2006,13:32,18,42.63
+604,VIIBRYD,9/7/2007,21:34,11,7.73
+605,healthy accents allergy relief,7/19/2014,15:17,11,70.29
+606,Sertraline Hydrochloride,1/31/2002,11:08,4,98.40
+607,Dicyclomine Hydrochloride,3/24/2008,15:14,1,56.01
+608,Warfarin Sodium,6/22/2001,15:17,20,21.21
+609,Potassium Chloride in Dextrose and Sodium Chloride,10/1/2010,17:59,10,24.15
+610,Morphine Sulfate,1/26/2015,19:41,19,54.29
+611,Fluocinonide,6/7/2000,19:32,12,12.94
+612,Methocarbamol,10/26/2013,19:53,16,19.46
+613,Duloxetine Hydrochloride,9/23/2013,21:17,13,71.36
+614,Pain Relief,4/7/2014,11:48,14,95.55
+615,Glimepiride,11/8/2012,11:49,17,26.20
+616,Badger Zinc Oxide Diaper Cream,10/20/2015,21:48,2,83.40
+617,Gingerhead Girl anti-bacterial SCENTED HAND SANITIZER,3/19/2010,18:06,3,53.02
+618,PROMETHAZINE HYDROCHLORIDE,3/9/2012,21:24,8,67.67
+619,Badger Unscented SPF 30 Sunscreen,4/11/2001,11:13,1,17.92
+620,Effexor,5/15/2009,21:35,10,28.99
+621,ZOOBY,1/8/2010,11:02,1,42.65
+622,Amlodipine Besylate,3/11/2006,12:47,3,38.35
+623,ERYTHROMYCIN ETHYLSUCCINATE AND SULFISOXAZOLE ACETYL,10/20/2014,15:45,1,89.02
+624,XtraCare instant Hand Sanitizer Aloe Vera,9/30/2001,10:41,3,16.47
+625,Mucus Relief DM MAX,7/28/2000,18:43,19,61.40
+626,"Pollens - Trees, Walnut, Black Juglans nigra",4/20/2001,20:52,18,51.66
+627,Citalopram Hydrobromide,10/30/2003,16:56,12,53.04
+628,promethazine hydrochloride and codeine phosphate,12/31/2011,10:57,16,87.85
+629,Peptic Relief Cherry,5/21/2011,17:04,12,24.53
+630,Bacitracin Zinc,3/9/2008,19:59,18,35.52
+631,Hemoforce,12/16/2004,21:20,6,25.64
+632,VP CH Plus,4/12/2005,14:59,1,81.31
+633,BONNOIR HAIR MEDI,5/4/2001,20:19,4,43.59
+634,Cromolyn Sodium,9/7/2008,13:38,20,94.75
+635,Oxybutynin Chloride,7/6/2012,12:18,5,21.00
+636,Disney Fairies Antibacterial Hand Wipes,4/21/2005,14:09,17,67.56
+637,McKesson Unna Boot with Calamine 4,4/19/2007,16:49,17,66.39
+638,Bio Mustard,7/15/2007,20:05,11,46.40
+639,Cilostazol,4/9/2003,19:34,12,87.76
+640,Doxy 100,8/21/2004,21:35,3,62.19
+641,Reef Safe SPF 50,10/6/2002,10:14,13,59.03
+642,Potassium Chloride,9/11/2015,12:11,6,52.89
+643,dextroamphetamine sulfate,8/4/2015,20:59,11,51.28
+644,Aqua Rush,9/4/2004,18:54,8,51.55
+645,equate childrens acetaminophen,12/1/2006,16:15,18,92.54
+646,Sani-Gel,1/18/2009,21:10,8,69.33
+647,Potassium Citrate,9/10/2010,19:48,4,54.26
+648,Cephalexin,10/19/2014,11:18,14,34.34
+649,risedronate sodium,7/21/2015,12:04,20,96.38
+650,SOLAR SENSE ZANY ZINC SPF 50 - WHITE,4/17/2003,12:57,1,87.90
+651,LBEL COULEUR LUXE AMPLIFIER XP,5/11/2008,11:30,4,54.67
+652,Modafinil,2/11/2000,17:41,19,42.03
+653,Supersmile,3/7/2002,14:20,16,52.72
+654,Lacura Ultimate Endurance Pure Sport,7/30/2014,10:55,8,25.00
+655,DERMATOLOGICAL SUN PROTECTION,9/15/2014,14:06,19,41.96
+656,Italian Rye Grass,11/24/2014,12:18,3,25.44
+657,Aspirin,1/10/2006,18:02,11,41.52
+658,S Balloon Slim Body Line,4/11/2009,11:43,1,48.72
+659,SHENG CHUN HERBAL,7/10/2002,13:09,4,87.68
+660,LAMICTAL,10/31/2015,11:02,2,36.91
+661,Phendimetrazine Tartrate,10/29/2003,19:46,18,64.07
+662,G-Dologen,9/15/2010,20:02,19,36.63
+663,Lovastatin,8/7/2001,13:59,6,48.15
+664,Clear Eyes Maximum Itchy Eye Relief,11/16/2001,11:59,14,71.51
+665,Ringers,6/21/2005,15:56,2,84.23
+666,Tramadol Hydrochloride,4/16/2000,20:28,17,24.57
+667,TINTED LIP CONDITIONER,2/3/2003,21:49,2,29.26
+668,Clozapine,10/5/2004,12:11,13,80.62
+669,Clarithromycin,12/29/2009,12:11,1,73.25
+670,CL-N,11/20/2011,21:18,12,79.91
+671,FAMOTIDINE,3/1/2002,18:24,9,5.87
+672,Montelukast,9/12/2001,18:30,14,90.94
+673,Nicardipine Hydrochloride,10/9/2007,14:51,2,36.32
+674,ARTEMISIA VULGARIS POLLEN,3/23/2009,11:52,9,60.09
+675,Dicyclomine Hydrochloride,12/24/2001,12:59,9,83.53
+676,Zidovudine,2/13/2015,16:18,1,89.03
+677,DILAUDID,3/23/2000,12:02,3,63.70
+678,LEVETIRACETAM,11/10/2010,21:20,3,72.40
+679,Senna S,10/19/2003,17:21,4,66.33
+680,Acetaminophen And Codeine,5/2/2005,14:50,10,21.48
+681,CENTER-AL - CORYLUS AMERICANA POLLEN,11/20/2000,11:59,6,79.67
+682,Paroxetine Hydrochloride,8/1/2001,11:29,20,68.43
+683,Cold n Cough 4 Kids,12/1/2008,10:02,19,79.19
+684,PRAMIPEXOLE DIHYDROCHLORIDE,11/25/2011,12:47,14,93.74
+685,LBEL LEDERM 45plus Jour,12/22/2012,13:53,8,77.98
+686,Blue Ice Analgesic,11/3/2005,17:51,5,37.92
+687,Dextroamphetamine Saccharate and Amphetamine Aspartate and Dextroamphetamine Sulfate and Amphetamine Sulfate,1/23/2009,20:45,19,15.05
+688,Aspergillus fumigatus,2/19/2010,16:23,17,78.76
+689,Ulta,3/29/2012,14:43,15,8.83
+690,SENSAI FLUID FINISH FF205,10/18/2015,20:05,5,77.97
+691,Oxycodone and Acetaminophen,8/24/2004,18:16,12,78.38
+692,Bumetanide,9/11/2003,12:54,20,98.16
+693,Terazol 3,12/23/2008,13:15,3,42.92
+694,Clonidine Hydrochloride,10/25/2014,20:10,19,12.54
+695,Allergy Mutli-Symptom,7/22/2000,17:55,17,39.37
+696,First Street Dishwasing Concentrate and Antimicrobial Hand,4/18/2015,18:03,9,17.50
+697,West Cottonwood,3/16/2012,11:02,7,85.50
+698,Amlodipine and Atorvastatin,4/18/2003,18:26,6,25.00
+699,Dialyvite 5000,6/7/2008,18:12,20,22.93
+700,Diltiazem Hydrochloride,6/18/2000,13:41,11,45.75
+701,CVS OIL FREE SPF 15,5/25/2009,12:07,16,38.42
+702,CEPHALEXIN,9/22/2010,20:08,15,66.00
+703,Bacti-Stat,5/18/2004,10:07,19,69.12
+704,Felodipine,9/14/2011,14:06,16,88.77
+705,Olanzapine,5/27/2000,15:53,5,74.02
+706,Acyclovir,2/23/2013,12:11,16,48.30
+707,Zubsolv,12/9/2014,10:56,9,49.69
+708,Anti-bacterial Hand,11/23/2000,10:47,11,47.78
+709,Dicyclomine,5/23/2003,14:23,4,70.00
+710,GenRx Daily Defense Antifungal,6/6/2004,21:58,18,67.10
+711,Assured Instant Hand Sanitizer,2/18/2010,18:09,10,31.55
+712,Natural Senna,5/14/2004,11:46,15,39.36
+713,Propranolol Hydrochloride,9/9/2001,10:54,8,68.10
+714,FERROUS SULFATE,3/19/2003,10:20,15,63.87
+715,METFORMIN HYDROCHLORIDE,12/20/2013,13:10,19,89.37
+716,Topcare Hemorrhoidal,7/13/2003,11:59,2,44.21
+717,Lorazepam,11/20/2011,18:27,1,36.56
+718,ARIZONA CYPRESS POLLEN,10/4/2013,14:55,20,74.95
+719,Losartan Potassium and Hydrochlorothiazide,7/13/2011,19:11,1,87.20
+720,Ceramide Plump Perfect Lip Moisture SPF 30,11/18/2003,12:37,12,61.93
+721,Metoclopramide,9/10/2014,17:56,17,89.29
+722,OXYGEN,4/6/2013,14:21,3,85.07
+723,Leader Hemorrholidal,10/23/2000,21:32,19,58.33
+724,BENICAR HCT,8/9/2015,11:49,14,77.79
+725,HealthMart Mucus Relief FM,10/6/2015,16:55,12,69.21
+726,Baclofen,6/22/2009,18:51,16,95.33
+727,Simvastatin,2/11/2008,10:33,7,70.65
+728,HYZAAR,6/26/2004,15:44,6,22.11
+729,PEPSOM SALT PEPPERMINT,10/19/2000,12:51,4,47.54
+730,Ecotrin Regular Strength,11/29/2003,12:08,5,26.85
+731,Acetaminophen,5/25/2014,16:18,1,55.65
+732,Gumsol,7/2/2002,15:25,14,56.93
+733,Head and Shoulders,1/12/2003,12:53,3,38.63
+734,Deferoxamine Mesylate,7/28/2009,20:12,18,97.22
+735,Gemfibrozil,10/18/2010,21:52,5,65.57
+736,SHISEIDO PERFECT REFINING FOUNDATION,6/13/2012,20:17,4,99.38
+737,Lamivudine,9/28/2000,18:53,2,37.00
+738,MINOXIDIL,4/11/2005,14:55,8,62.62
+739,Oxygen,11/27/2001,15:56,1,76.52
+740,Zolpidem Tartrate,11/22/2004,20:41,14,51.27
+741,fentanyl citrate,12/27/2002,17:39,12,50.22
+742,Lisinopril,8/9/2005,16:08,5,83.07
+743,ENALAPRIL MALEATE,5/6/2002,20:32,11,73.83
+744,pain and fever,9/17/2008,11:00,15,89.85
+745,Dill Seed,3/27/2008,21:03,19,95.63
+746,acyclovir,9/12/2009,16:07,4,86.70
+747,Q Tussin DM,9/8/2008,14:44,10,78.48
+748,Fluconazole,6/24/2013,15:10,6,34.26
+749,MILK OF MAGNESIA MINT,3/28/2003,19:08,9,81.50
+750,Aspergillus repens,7/27/2013,12:12,3,12.96
+751,Benztropine Mesylate,11/1/2001,21:20,1,35.23
+752,Valsartan and Hydrochlorothiazide,12/31/2000,10:20,8,50.28
+753,EROS BODY GLIDE,9/1/2008,20:46,15,80.07
+754,Coumarin,2/22/2009,21:53,19,29.25
+755,Amitriptyline Hydrochloride,9/5/2001,10:09,1,70.07
+756,Lovely ME EX BB PACT SPF20,3/8/2015,14:12,19,41.38
+757,TOKUHON-A External Analgesic Pain Relieving Medicated,7/26/2008,15:44,18,30.72
+758,ENALAPRIL MALEATE,7/21/2007,13:45,12,95.02
+759,LBEL REPLENISHING FOUNDATION SPF 14,8/22/2012,21:20,9,36.97
+760,Sun Care,3/25/2006,12:59,9,28.51
+761,Nitrous Oxide,7/4/2009,10:21,4,30.78
+762,Warfarin Sodium,5/22/2008,16:25,6,74.46
+763,DURAGESIC,2/22/2015,13:53,10,74.88
+764,Crest Pro-Health,5/15/2005,18:11,6,71.46
+765,SINGULAIR,3/27/2010,14:03,10,62.94
+766,Roqueforti,4/1/2015,20:53,15,18.30
+767,Ibuprofen,9/1/2010,14:44,13,19.99
+768,Secret Antiperspirant/Deodorant,7/17/2014,10:12,1,79.08
+769,Desoximetasone,7/21/2005,13:23,17,42.24
+770,Gabapentin,8/25/2008,10:12,8,21.05
+771,Sancuso,9/4/2013,14:38,20,75.50
+772,Trimethoprim,7/18/2003,12:19,3,82.71
+773,Givenchy Fluid Foundation Airy-light Mat Radiance SPF 20 Tint 5,9/7/2007,20:21,9,32.59
+774,Neptazane,6/22/2005,10:24,5,30.51
+775,Bronkids,10/20/2004,14:16,10,16.13
+776,Neomycin Sulfate,11/16/2006,13:10,8,76.52
+777,DIAPEDIC FOOT AND LEG TREATMENT,10/8/2009,16:15,13,32.49
+778,Venlafaxine Hydrochloride,12/12/2015,16:43,14,92.41
+779,Timolol GFS,12/10/2005,20:59,4,10.24
+780,Pramipexole Dihydrochloride,12/29/2002,19:21,18,91.57
+781,Oxygen,11/16/2001,20:56,16,45.49
+782,Smarth,6/27/2007,17:19,17,13.56
+783,Zilactin,1/26/2009,14:18,4,32.77
+784,Pinchot Juniper,1/13/2007,11:07,6,95.95
+785,Clear Advantage,6/9/2009,10:46,17,80.97
+786,PENNSAID,8/17/2015,21:51,5,64.04
+787,PureLife APF,12/13/2007,12:51,20,28.07
+788,COGHLANS SURVIVAL IN A CAN,10/19/2003,17:29,20,99.69
+789,Isosorbide Dinitrate,4/7/2013,14:53,17,15.77
+790,mucus er,11/17/2003,17:09,19,66.12
+791,COMMON MUGWORT POLLEN,10/25/2004,20:52,3,79.75
+792,OH Age recovery Tri Shield pact 10,4/20/2011,17:22,7,38.70
+793,Intervene Radiance Boosting Moisture SPF 15,6/1/2004,14:14,10,7.14
+794,Antispetic,3/30/2012,20:56,6,64.17
+795,Prednisone,8/2/2011,20:20,12,63.99
+796,Fluocinonide,9/18/2011,15:52,6,84.69
+797,Flawless Finish Dual Perfection Makeup SPF 8 Vanilla,2/23/2014,16:18,8,79.71
+798,Oregano,10/2/2006,17:50,8,24.87
+799,KETOROLAC TROMETHAMINE,11/19/2008,15:28,12,9.69
+800,NITROUS OXIDE,9/4/2011,20:09,6,83.76
+801,Novolin,6/30/2001,17:07,1,25.66
+802,Lexapro,5/9/2001,11:47,13,70.71
+803,HEADACHE,7/2/2008,17:55,14,32.91
+804,Sinus Relief,10/30/2004,12:29,15,10.20
+805,Diltiazem Hydrochloride,9/11/2008,15:57,1,26.77
+806,TRIPLE ANTIBIOTIC,7/19/2003,12:36,14,57.30
+807,GMC Medical,10/2/2011,12:42,1,53.88
+808,No7 Stay Perfect Foundation Compact Sunscreen SPF 15 Buff,9/13/2013,11:03,17,16.51
+809,Divalproex Sodium,12/23/2004,14:48,10,23.20
+810,Ibuprofen,12/4/2006,10:34,4,44.52
+811,Glipizide,11/24/2006,20:17,14,34.45
+812,Nausea Headache,5/28/2014,15:46,12,61.29
+813,Valacyclovir Hydrochloride,5/16/2008,11:02,18,47.75
+814,smart sense Allergy Relief,10/20/2011,17:23,18,23.92
+815,Gowoonsesang Multi Protection,4/6/2011,11:00,18,73.36
+816,Smart San Healthcare Personnel Handwash,10/20/2015,12:50,5,90.18
+817,Secura Total Body Foam Cleanser,4/6/2009,19:15,13,88.84
+818,Cetaphil Gentle Cleansing Antibacterial Bar,9/16/2004,18:18,2,52.94
+819,Lemon Zest Antibacterial Foaming Hand Wash,2/12/2006,13:09,3,24.81
+820,Depo-Medrol,10/2/2009,14:36,8,44.63
+821,Critic Aid Skin,6/19/2013,12:43,14,74.94
+822,Chrysolith 6,5/10/2001,21:34,10,70.03
+823,Roccos Old School,11/23/2013,10:30,17,15.08
+824,milk of magnesia,12/28/2006,11:11,17,21.66
+825,citroma,2/17/2003,14:15,15,82.89
+826,Diazepam,8/27/2000,15:00,1,79.00
+827,Antibacterial Hand Towelettes,7/31/2007,10:01,13,95.35
+828,Shagbark Hickory,7/2/2015,10:27,10,14.73
+829,ONDANSETRON HYDROCHLORIDE,7/29/2006,10:17,17,74.24
+830,ANTIBACTERIAL FOAMING,9/16/2011,14:31,3,11.62
+831,Tretinoin,12/2/2012,16:22,11,82.86
+832,omeprazole,12/7/2004,12:17,7,98.42
+833,Premium Whitening,5/1/2006,12:50,11,70.62
+834,Neupogen,11/5/2003,10:19,7,45.55
+835,ARC Skin Protectant,5/27/2013,16:58,5,85.51
+836,TAMSULOSIN HYDROCHLORIDE,2/26/2002,10:41,13,36.26
+837,POPULUS FREMONTII POLLEN,4/12/2007,10:17,11,80.24
+838,Suave,5/6/2006,20:17,13,26.20
+839,Equate Anti-Wrinkle,12/4/2000,19:24,2,73.21
+840,Healing Waters Clean Cotton Scented Anti-Bacterial Hand Sanitizer,1/18/2004,18:08,14,50.64
+841,Neutrahist,4/7/2008,11:43,19,67.27
+842,Neutrogena On-the-Spot Acne Treatment,9/4/2005,10:23,13,32.99
+843,Melphalan Hydrochloride,11/14/2000,16:04,12,92.99
+844,PROGESTERONE,1/13/2015,16:56,3,8.50
+845,Pepper Tree Pollen,5/2/2010,17:43,14,94.07
+846,Arbonne Revelage,12/10/2009,14:20,16,95.12
+847,Triamcinolone Acetonide,2/11/2003,12:29,5,22.65
+848,IOPE SUPER VITAL EXTRA MOIST B.B,1/22/2000,12:24,17,85.29
+849,Umcka ColdCare Alcohol Free Cherry,11/4/2012,16:41,12,86.85
+850,Metformin Hydrochloride,4/6/2002,11:02,1,98.10
+851,THROMBIN-JMI,5/28/2013,20:56,12,73.50
+852,Trimethoprim,6/3/2004,14:58,8,8.93
+853,lisinopril,2/16/2000,12:49,17,85.12
+854,Preferred Plus Extra Strength Pain Relief,9/25/2006,14:33,15,44.44
+855,Tetracycline Hydrochloride,10/26/2007,17:44,18,11.59
+856,VOLTAREN,8/19/2008,12:55,20,63.21
+857,leader hair regrowth treatment,12/1/2006,15:27,15,33.59
+858,Lisinopril and Hydrochlorothiazide,4/2/2014,19:08,9,32.72
+859,ENBREL,11/14/2008,20:11,19,29.94
+860,Natural Care,3/27/2012,15:59,1,38.45
+861,Meperidine Hydrochloride,3/17/2005,16:46,9,42.11
+862,Catfish,4/16/2005,20:22,7,84.59
+863,Chaetomium,2/9/2014,21:28,5,61.94
+864,Lipitor,5/26/2011,14:55,5,15.45
+865,Belli Acne Control Spot Treatment,8/29/2011,13:55,5,88.79
+866,"3-RAGWEED MIX, GIANT/SHORT/WESTERN POLLEN",2/10/2005,14:54,10,62.84
+867,Trazodone Hydrochloride,10/18/2012,15:50,15,73.08
+868,FLOVENTHFA,10/15/2010,19:58,4,23.87
+869,Lisinopril,7/23/2014,18:19,20,11.86
+870,cefazolin,12/14/2013,15:14,12,59.21
+871,DayTime Nitetime Sinus Relief,8/10/2001,13:21,12,6.60
+872,Loperamide Hydrochloride,7/21/2010,17:59,4,36.56
+873,Valacyclovir Hydrochloride,6/16/2007,13:33,18,7.02
+874,Doxycycline Hyclate,3/8/2001,16:14,14,19.78
+875,Captopril,10/25/2001,12:01,14,30.64
+876,COMMON PAPER WASP VENOM PROTEIN,7/31/2006,11:58,16,85.94
+877,VYTORIN,5/16/2009,20:11,17,99.51
+878,Bumetanide,5/18/2003,10:02,3,72.54
+879,good sense miconazole 3,4/23/2011,19:51,13,26.36
+880,Minoxidil,9/5/2008,21:38,15,95.66
+881,Midazolam HCl,7/1/2012,13:56,13,72.35
+882,koala pals,11/25/2001,10:49,5,69.91
+883,Pinceladas Para Hongos Navarro,3/24/2008,11:59,10,20.75
+884,BODY TIME Anti-Aging Day Cream SPF 30,3/1/2009,19:39,16,44.45
+885,Hydromorphone Hydrochloride,10/3/2014,18:27,13,30.07
+886,BALANCED SALT,7/21/2006,13:25,2,86.16
+887,IOPE S.S. CONDITIONING COLOR BASE No.40,3/30/2006,14:49,7,33.02
+888,Phoenix Balm,6/13/2011,10:12,9,80.81
+889,Irinotecan Hydrochloride,12/2/2005,14:44,7,80.34
+890,Trout,1/8/2003,13:25,10,29.60
+891,Clarithromycin,1/9/2009,18:55,6,53.37
+892,up and up ibuprofen,12/11/2009,19:00,1,68.36
+893,LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - CLAIRE 3,8/6/2010,13:33,20,78.71
+894,Serenity Remedy No. 12,7/18/2005,18:56,12,81.33
+895,Equaline Ibuprofen,3/28/2005,16:26,14,66.82
+896,Gelato APF,10/15/2004,21:37,10,5.45
+897,Tranxene,9/16/2001,11:15,14,97.87
+898,Sooryehan Jadan Sun Mild,7/13/2013,17:30,9,20.52
+899,Mary Kay Tinted Lip Balm Sunscreen SPF 15 Cherry,3/29/2004,13:48,10,18.55
+900,Vitamin B5 Velvet Mask,11/14/2004,11:58,12,21.14
+901,Depo-Testosterone,6/7/2013,13:39,6,50.60
+902,day relief pe,7/11/2013,11:59,12,67.44
+903,Tartar control plus,4/21/2003,14:19,8,10.26
+904,Hand Essentials Instant Hand Antiseptic,2/10/2001,20:52,2,35.68
+905,METRONIDAZOLE,10/17/2012,15:53,14,99.11
+906,Hand wash,10/3/2010,14:32,5,16.57
+907,risperidone,11/5/2004,10:39,20,77.41
+908,FAMILY CARE MEDICATED HEMORRHOIDAL,8/23/2000,13:25,18,8.40
+909,Lightening Day Cream,8/16/2001,17:03,7,86.38
+910,CLE DE PEAU BEAUTE RADIANT FLUID FOUNDATION,11/9/2015,15:15,9,10.27
+911,Groundsel,11/29/2013,14:39,6,88.75
+912,Aveeno Active Naturals Clear Complexion BB,3/4/2011,18:12,6,78.61
+913,West Wheat Grass,8/18/2005,21:39,9,36.98
+914,DEXTROSE,10/4/2007,20:27,20,11.68
+915,Levothyroxine sodium,5/4/2013,17:44,8,11.13
+916,Minocycline Hydrochloride,6/22/2000,21:47,20,7.08
+917,rizatriptan benzoate,11/22/2014,14:32,20,42.56
+918,NITROGEN,11/2/2012,13:06,2,50.29
+919,SENSORCAINE,9/23/2000,14:49,16,32.63
+920,Staxyn,1/21/2005,10:31,5,82.29
+921,leader nite time,4/13/2006,11:59,16,33.67
+922,Family Wellness,4/5/2007,17:12,18,20.49
+923,COLLAGEN HD AQUA BB,12/3/2001,17:34,7,58.26
+924,AMOREPACIFIC,3/22/2007,10:06,1,74.35
+925,Felodipine,11/16/2005,10:37,1,87.76
+926,TYVASO,5/29/2012,18:24,3,75.04
+927,Escitalopram,11/18/2010,21:16,9,34.01
+928,Sani Professional Brand Sani-Hands with Tencel,8/29/2001,10:00,4,84.12
+929,QUESTRAN,9/29/2001,21:24,9,32.14
+930,Traumatone,10/28/2010,17:51,18,99.07
+931,Benazepril Hydrochloride,8/16/2001,16:44,8,68.80
+932,Summers Eve,2/10/2009,19:44,4,85.26
+933,OCELLA,10/25/2005,17:31,4,46.97
+934,NAPRELAN,9/1/2003,20:06,5,47.36
+935,Lima Beans,10/29/2002,18:29,2,93.45
+936,Hi Vetic,1/22/2001,10:17,7,47.67
+937,Amlodipine and Valsartan,5/16/2002,15:26,5,96.68
+938,Brain Power,9/1/2000,20:42,19,64.24
+939,DYAZIDE,12/2/2002,21:58,1,75.66
+940,Orphenadrine Citrate,12/29/2010,12:37,20,39.34
+941,VENLAFAXINE HYDROCHLORIDE,10/4/2004,15:04,19,99.36
+942,Potassium Acetate,5/20/2005,10:46,20,36.34
+943,sumatriptan succinate,12/17/2015,19:17,8,77.90
+944,Sulindac,1/7/2010,11:11,14,79.50
+945,Bupropion Hydrochloride,1/14/2014,18:49,13,84.44
+946,Chlorpromazine Hydrochloride,10/30/2003,13:29,12,96.39
+947,Vancomycin Hydrochloride,7/24/2002,17:01,18,30.40
+948,Triple Antibiotic,5/18/2001,15:06,11,28.93
+949,Desmopressin Acetate,12/7/2001,16:32,11,61.25
+950,SHISEIDO SHEER MATIFYING COMPACT (REFILL),1/17/2001,14:45,20,11.31
+951,Witch Hazel,3/4/2011,18:52,8,79.70
+952,galantamine,1/7/2003,13:31,20,56.95
+953,Bio Viscum Compositum,6/7/2013,12:44,14,48.43
+954,Branders Antiseptic Hand Sanitizer,7/9/2002,11:23,10,83.37
+955,CHILDRENS ADVIL,9/2/2000,14:43,13,48.59
+956,smart sense nicotine,2/8/2000,14:46,2,79.50
+957,Doxycycline,10/29/2000,11:02,15,60.69
+958,Radish,10/6/2011,14:46,16,7.38
+959,PURELL SF607 Instant Hand Sanitizing,10/12/2011,14:08,16,16.27
+960,White Oak,12/28/2002,20:28,2,42.08
+961,Thyropar,1/24/2015,10:06,2,6.64
+962,CLARINS Broad Spectrum SPF 15 Everlasting Foundation Tint 108,11/14/2013,20:42,15,97.04
+963,Megestrol Acetate,12/31/2010,13:52,20,68.48
+964,GUNA-ADDICT 2,6/20/2015,17:54,20,24.74
+965,Pleo San Pseu,11/7/2003,10:35,9,59.57
+966,VANILLA,3/15/2000,14:07,20,30.87
+967,Lisinopril,2/3/2013,11:01,19,37.69
+968,Carvedilol,11/2/2009,17:23,5,30.04
+969,Green Pea,11/14/2012,16:17,5,57.53
+970,SENSAI FLUID FINISH FF202,10/31/2015,16:02,14,48.06
+971,CLEAR ACTION,8/27/2013,18:48,4,98.41
+972,MediChoice Hand Sanitizer,8/30/2010,15:35,12,25.96
+973,Risperidone,9/3/2004,15:35,3,55.54
+974,Colgate,7/28/2009,20:26,14,52.49
+975,METFORMIN HYDROCHLORIDE,10/8/2000,19:46,3,57.94
+976,topcare tussin,12/18/2012,12:10,9,27.29
+977,Diltiazem Hydrochloride,2/3/2000,16:31,10,33.18
+978,Ramipril,9/20/2006,14:26,2,31.70
+979,Terrasil Foot and Nail Anti-Fungal,2/20/2000,15:51,1,47.93
+980,Hydrocodone Bitartrate and Acetaminophen,8/3/2007,18:23,9,30.99
+981,Nitrofurantoin Macrocrystals,9/20/2004,17:36,16,94.02
+982,Loblolly Pine,8/29/2006,18:08,11,8.19
+983,Tussin DM Max,4/9/2014,10:21,10,98.20
+984,Levothyroxine Sodium,4/9/2013,14:50,20,66.02
+985,Senna/Docusate Sodium,8/6/2012,19:16,16,95.22
+986,"Cat Pelt, Standardized",8/26/2015,14:24,16,73.43
+987,OCUFLOX,12/8/2002,18:37,9,44.84
+988,donepezil hydrochloride,7/6/2005,17:46,20,87.74
+989,LAMICTAL,6/30/2006,19:37,16,63.37
+990,acetaminophen pm,12/13/2006,17:25,4,83.41
+991,good neighbor pharmacy nasal decongestant,8/6/2001,11:22,2,97.60
+992,Phenazopyridine Hydrochloride,12/11/2013,20:20,5,37.72
+993,Cefpodoxime Proxetil,12/9/2002,13:42,11,8.67
+994,Chlorhexidine Gluconate,11/2/2010,14:48,18,67.16
+995,LABORATOIRE REMEDE TRANSLUCENT UV COAT TINT 3,9/20/2015,12:25,20,26.49
+996,Isagel,11/3/2014,12:50,3,85.16
+997,Minoxidil,5/11/2012,21:14,7,9.14
+998,Venlafaxine Hydrochloride,4/28/2005,16:56,12,9.04
+999,TOPIRAMATE,1/11/2006,18:50,5,36.52
+1000,Doxazosin,2/1/2010,11:57,3,80.85
